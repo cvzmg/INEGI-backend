@@ -214,3 +214,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#ignore data files
+data/raw/stores/denue_inegi_09_.csv
