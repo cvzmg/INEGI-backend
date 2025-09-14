@@ -1,0 +1,8 @@
+# requirements.txt
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+seaborn
