@@ -1,0 +1,635 @@
+NOMBRE,CALLE,COLONIA,ALCALD�A,CP,CATEGOR�A,LATITUD,LONGITUD
+AC Hotel Santa Fe,Juan Salvador Agraz 130,Santa Fe Cuajimalpa,Cuajimalpa de Morelos,5348,5 Estrellas,19.358235,-99.277092
+Camino Real Santa Fe,Guillermo Gonz�lez Camarena 300,Santa Fe,�lvaro Obreg�n,1210,5 Estrellas,19.367672,-99.261309
+C�rculo Mexicano Hotel,Rp�blica de Guatemala 20,Centro,Cuauht�moc,6000,5 Estrellas,19.43511257,-99.13282779
+City Express Suites Anzures,Leibnitz 120,Nueva Anzures,Miguel Hidalgo,11590,5 Estrellas,19.429322,-99.178733
+Crowne Plaza Hotel de M�xico,Dakota 95,N�poles,Benito Ju�rez,3810,5 Estrellas,19.396078,-99.174406
+Dominion Corporate Suites,Arist�teles 21,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.428836,-99.193747
+DoubleTree by Hilton M�xico City Santa Fe,Calle 3 55,Lomas de Santa Fe,�lvaro Obreg�n,1219,5 Estrellas,19.365179,-99.262181
+Eurostars Zona Rosa Suites,Londres 115,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.425679,-99.164002
+Exe Suites Reforma,R�o Amazonas 78,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.430541,-99.163089
+Exe Suites San Marino ,R�o Tiber 107,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.428707,-99.168803
+Fiesta Americana Viaducto Aeropuerto,Avenida Viad. R�o de la Piedad 515,Granjas M�xico,Iztacalco,8400,5 Estrellas,19.4054553,-99.1104519
+Fiesta Inn Insurgentes Viaducto,Avenida Insurgentes Sur 553,Escand�n I secci�n,Miguel Hidalgo,11800,5 Estrellas,19.40032,-99.170933
+Filadelfia Suites Hotel Boutique,Filadelfia 42,N�poles,Benito Ju�rez,3810,5 Estrellas,19.393128,-99.175386
+Four Seasons Hotel M�xico D. F.,Paseo de la Reforma 500,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.422838,-99.174193
+Gran Hotel Ciudad de M�xico,16 de Septiembre 82,Centro (�rea 1),Cuauht�moc,6000,5 Estrellas,19.432262,-99.134665
+Grand Chapultepec Residencial,R�o Atoyac 89,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.424885,-99.175406
+Hampton Inn & Suites By Hilton Ciudad de M�xico Centro Hist�rico,5 de Febrero 24,Centro (�rea 6),Cuauht�moc,6060,5 Estrellas,19.429971,-99.134499
+Hilton M�xico City Reforma,Avenida Ju�rez 70,Centro (�rea 2),Cuauht�moc,6010,5 Estrellas,19.435025,-99.146398
+Hilton M�xico City Santa Fe,Antonio Dovali Jaime 70,Lomas de Santa Fe,�lvaro Obreg�n,1219,5 Estrellas,19.367847,-99.259924
+Holiday Inn & Suites M�xico M�dica Sur,Puente de Piedra 150,Toriello Guerra,Tlalpan,14050,5 Estrellas,19.296988,-99.161626
+Holiday Inn Ciudad de M�xico Trade Center,Avenida Revoluci�n 583,San Pedro de los Pinos,Benito Ju�rez,3800,5 Estrellas,19.387977,-99.186693
+Holiday Inn Express M�xico Reforma,Avenida Paseo de la Reforma 208 ,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.429415,-99.161648
+Holiday Inn M�xico Buenavista,Mariano Azuela 12,Santa Mar�a la Ribera,Cuauht�moc,6400,5 Estrellas,19.44257,-99.155366
+Holiday Inn M�xico Coyoac�n,Calzada de Tlalpan 1507,Portales Sur,Benito Ju�rez,3300,5 Estrellas,19.363234,-99.14314
+Holiday Inn M�xico Dal� Aeropuerto,Viaducto R�o de la Piedad 260,Pueblo de la Magdalena Mixihuca,Venustiano Carranza,15860,5 Estrellas,19.403736,-99.135886
+Holiday Inn Plaza Universidad,Parroquia 1056,Santa Cruz Atoyac,Benito Ju�rez,3310,5 Estrellas,19.368103,-99.162977
+Hotel B�rcelo M�xico Reforma,Paseo de la Reforma 1,Tabacalera,Cuauht�moc,6030,5 Estrellas,19.435269,-99.151026
+Hotel Benidorm,Frontera 217,Roma Norte,Cuauht�moc,6700,5 Estrellas,19.41448,-99.154822
+Hotel Beverly,Nueva York 301,N�poles,Benito Ju�rez,3810,5 Estrellas,19.386983,-99.17539
+Hotel Camino Real Aeropuerto,Fundidora de Monterrey 89,Pe��n de los Ba�os,Venustiano Carranza,15520,5 Estrellas,19.472549,-99.128982
+Hotel Camino Real Pedregal M�xico,Perif�rico Sur 3647,H�roes de Padierna,Magdalena Contreras,10700,5 Estrellas,19.314245,-99.220997
+Hotel Camino Real Polanco M�xico,Calzada General Mariano Escobedo 700,Anzures,Miguel Hidalgo,11590,5 Estrellas,19.427734,-99.179174
+Hotel Casa Blanca,Lafragua 7,Tabacalera,Cuauht�moc,6030,5 Estrellas,19.434686,-99.153853
+Hotel Century Zona Rosa,Liverpool 152,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.423845,-99.164772
+Hotel Condesa DF,Avenida Veracruz 102,Condesa,Cuauht�moc,6700,5 Estrellas,19.416233,-99.172078
+Hotel Courtyard by Marriott Revoluci�n,Avenida Revoluci�n 333,Tacubaya,Miguel Hidalgo,11870,5 Estrellas,19.396547,-99.185578
+Hotel Del Prado,Avenida Marina Nacional 399,Ver�nica Anzures,Miguel Hidalgo,11300,5 Estrellas,19.437328,-99.171891
+Hotel El Parque M�xico,Avenida M�xico 133,Hip�dromo,Cuauht�moc,6100,5 Estrellas,19.410776,-99.169033
+Hotel Emporio,Paseo de la Reforma 124,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.43153,-99.156937
+Hotel Fiesta Americana Grand Chapultepec,Calzada General Mariano Escobedo 756,Anzures,Miguel Hidalgo,11590,5 Estrellas,19.425162,-99.178234
+Hotel Fiesta Americana Reforma,Paseo de la Reforma 80,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.447044,-99.136542
+Hotel Fiesta Inn Perif�rico Sur,Perif�rico Sur 5530,Pedregal de Carrasco,Coyoac�n,4700,5 Estrellas,19.302367,-99.165893
+Hotel Finisterre,Calzada de Tlalpan 2043,Parque San Andr�s,Coyoac�n,4040,5 Estrellas,19.344296,-99.144889
+Hotel Four Points by Sheraton M�xico City,Avenida �lvaro Obreg�n 38,Roma Norte,Cuauht�moc,6700,5 Estrellas,19.41861,-99.156442
+Hotel Galer�a Plaza Reforma,Hamburgo 195,Ju�rez,Cuauht�moc,6500,5 Estrellas,19.424992,-99.167836
+Hotel Geneve Ciudad de M�xico,Londres 130,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.425274,-99.164195
+Hotel Habita,Avenida Presidente Masaryk  201,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.431757,-99.189934
+Hotel Hilton Aeropuerto Ciudad de M�xico,Avenida Capit�n Carlos Le�n sin n�mero nueva terminal a�rea piso 3,Pe��n de los Ba�os,Venustiano Carranza,15520,5 Estrellas,19.436042,-99.081761
+Hotel Hippodrome,Avenida M�xico 188,Hip�dromo,Cuauht�moc,6100,5 Estrellas,19.413666,-99.167999
+Hotel Holiday Inn & Suites M�xico Zona Rosa,Londres 15,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.428485,-99.158087
+Hotel Imperial Reforma,Paseo de la Reforma 64,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.433268,-99.153607
+Hotel La Casona,Durango 280,Roma Norte,Cuauht�moc,6700,5 Estrellas,19.418827,-99.170675
+Hotel Las Alcobas,Avenida Presidente Masaryk 390  ,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.431612,-99.197872
+Hotel Marquis Reforma,Paseo de la Reforma 465,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.424942,-99.173667
+Hotel Novit,Avenida Insurgentes Sur 635,N�poles,Benito Ju�rez,3810,5 Estrellas,19.395966,-99.171922
+Hotel Park Nilo,R�o Nilo 71,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.427136,-99.171322
+Hotel Pedregal Palace,Anillo Perif�rico Sur 3487,San Jer�nimo L�dice,Magdalena Contreras,10200,5 Estrellas,19.320619,-99.221607
+Hotel Presidente Inter-Continental Mexico City,Campos El�seos 218,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.427263,-99.193652
+Hotel Presidente Inter-Continental Santa Fe,Juan Salvador Agraz 97,Santa Fe Cuajimalpa,Cuajimalpa de Morelos,5348,5 Estrellas,19.358101,-99.278005
+Hotel Real del Sur,Avenida Divisi�n del Norte 3640,El Reloj,Coyoac�n,4640,5 Estrellas,19.320626,-99.138415
+Hotel Residencia Polanco,Newton 272,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.436898,-99.184995
+Hotel Royal Pedregal,Avenida Perif�rico Sur 4363,Jardines en la Monta�a,Tlalpan,14210,5 Estrellas,19.303327,-99.200284
+Hotel Royal Reforma,Amberes 78,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.423929,-99.164242
+Hotel Sevilla Palace,Paseo de la Reforma 105,Tabacalera,Cuauht�moc,6030,5 Estrellas,19.432804,-99.156278
+Hotel Stadia Suites Santa Fe,Juan Salvador Agraz 60,Santa Fe Cuajimalpa,Cuajimalpa de Morelos,5348,5 Estrellas,19.358963,-99.277283
+Hotel Suites Reforma,Paseo de la Reforma 374,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.425679,-99.169072
+Hotel W M�xico City,Campos El�seos 252,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.427271,-99.1954
+Hotel Z�calo Central,Avenida 5 de Mayo 61,Centro (�rea 1),Cuauht�moc,6000,5 Estrellas,19.434011,-99.134362
+Hyatt Regency M�xico City,Campos El�seos 204,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.427437,-99.192843
+Isaaya Hotel Boutique,Dakota 155,N�poles,Benito Ju�rez,3810,5 Estrellas,19.394192,-99.175587
+JW Marriott Hotel M�xico City,Andr�s Bello 29,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.427194,-99.194876
+JW Marriott M�xico City Santa Fe,Avenida Santa Fe 160,Lomas de Santa Fe,�lvaro Obreg�n,1219,5 Estrellas,19.367158,-99.260439
+Krystal Urban Aeropuerto CDMX,Avenida Javier Rojo G�mez 630,Leyes de Reforma primera secci�n,Iztapalapa,9310,5 Estrellas,19.383387,-99.075982
+La Valise Hotel ,Tonal� 53,Roma Norte,Cuauht�moc,6700,5 Estrellas,19.419016,-99.163033
+Las Suites Polanco,Campos El�seos 470,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.430412,-99.205471
+Le Meridien M�xico City,Paseo de la Reforma 69,Tabacalera,Cuauht�moc,6030,5 Estrellas,19.433589,-99.154387
+Live Aqua Mexico City & Spa,Avenida Paseo de los Tamarindos 98,Bosques de las Lomas,Cuajimalpa de Morelos,5120,5 Estrellas,19.386417,-99.252978
+Living C�firo by Stara,C�firo 5,Pedregal del Maurel,Coyoac�n,4530,5 Estrellas,19.307212,-99.180488
+Marriott Reforma,Avenida Paseo de la Reforma 276,Cuauht�moc,Cuauht�moc,6600,5 Estrellas,19.428027,-99.164379
+NH Collection M�xico City Airport T2,Avenida Capit�n Carlos Le�n sin n�mero,Zona Federal,Venustiano Carranza,15620,5 Estrellas,19.421421,-99.077187
+Plaza Suites M�xico City,Paseo de la Reforma 77,Tabacalera,Cuauht�moc,6030,5 Estrellas,19.43365,-99.155115
+Radisson Para�so Hotel M�xico D.F.,C�spide 53,Parque del Pedregal,Tlalpan,14010,5 Estrellas,19.301852,-99.189568
+Residence L'heritage,Tennyson 79,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.430509,-99.195116
+Sheraton Mar�a Isabel Hotel & Towers,Paseo de la Reforma 325,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.42792,-99.167195
+Sheraton Suites Santa Fe,Guillermo Gonz�lez Camarena 200,Santa Fe,�lvaro Obreg�n,1210,5 Estrellas,19.368405,-99.261211
+Sleep Inn Ciudad de M�xico,Carretera M�xico - Toluca 5454,El Yaqui,Cuajimalpa de Morelos,5320,5 Estrellas,19.363099,-99.283086
+St. Isidro Corporate Housing,San Isidro 63 ,Reforma Social,Miguel Hidalgo,11650,5 Estrellas,19.433771,-99.212654
+Stara Boutique Hotels Hamburgo,Hamburgo 32,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.369136,-99.139586
+Stara Boutique Hotels San �ngel Inn,Segunda cerrada de San �ngel Inn 4,Lomas de San �ngel Inn,�lvaro Obreg�n,1790,5 Estrellas,19.347091,-99.203952
+Suites Amberes,Amberes 64,Ju�rez,Cuauht�moc,6600,5 Estrellas,19.424783,-99.164729
+Suites Contempo,Avenida Melchor Ocampo 455,Anzures,Miguel Hidalgo,11590,5 Estrellas,19.425136,-99.177003
+Suites Coyoac�n,Avenida Coyoac�n 1909,Acacias,Benito Ju�rez,3240,5 Estrellas,19.36118,-99.17206
+Suites Del �ngel,R�o Lerma 162,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.428345,-99.169157
+Suites Masliah,Ludovico Ariosto 16,Polanco V secci�n,Miguel Hidalgo,11560,5 Estrellas,19.429581,-99.200444
+The Green Park Hotel,Constituyentes 99,San Miguel Chapultepec I secci�n,Miguel Hidalgo,11850,5 Estrellas,19.415177,-99.184978
+The St. Regis M�xico City,Paseo de la Reforma 439,Cuauht�moc,Cuauht�moc,6500,5 Estrellas,19.42553,-99.172301
+The Westin Santa Fe,Javier Barros Sierra  540,Lomas de Santa Fe,�lvaro Obreg�n,1219,5 Estrellas,19.36539,-99.258629
+"Umbral, Curio Collection by Hilton",Calle Venustiano Carranza 69,Centro Hist�rico,Cuauht�moc,6000,5 Estrellas,19.43121,-99.13571
+Villa Condesa,Colima 428  ,Roma Norte,Cuauht�moc,6700,5 Estrellas,19.41684,-99.172615
+Villas Princess Hotel,Viaducto R�o de la Piedad 367,La Cruz,Iztacalco,8310,5 Estrellas,19.402907,-99.130275
+We M�xico,Boulevard Puerto A�reo 390,Moctezuma segunda secci�n,Venustiano Carranza,15530,5 Estrellas,19.433277,-99.08952
+Basic Hotel,Sullivan 163 bis,San Rafael,Cuauht�moc,6470,4 estrellas,19.435225,-99.166386
+Casa de La Condesa,Plaza Luis Cabrera 16,Roma Sur,Cuauht�moc,6760,4 Estrellas,19.416564,-99.158807
+Casa de la Luz,Rinconada de Jes�s,Centro,Cuauht�moc,6000,4 Estrellas,19.4299403,-99.13293976
+C�rculo Condesa Hotel,Ometusco 7,Hip�dromo,Cuauht�moc,6170,4 Estrellas,19.409042,-99.172817
+City Centro Ciudad de M�xico,Rep�blica de Uruguay 45,Centro Hist�rico,Cuauht�moc,6000,4 Estrellas,19.43059,-99.137851
+City Express Aeropuerto Ciudad de M�xico,Boulevard Puerto A�reo 90,Santa Cruz Aviaci�n,Venustiano Carranza,15540,4 Estrellas,19.43316,-99.138372
+City Express Alameda,Revillagigedo 23,Centro (�rea 5),Cuauht�moc,6050,4 Estrellas,19.433215,-99.146393
+City Express Buenavista,Avenida Insurgentes Norte 226 ,Santa Mar�a la Ribera,Cuauht�moc,6400,4 Estrellas,19.447595,-99.153442
+City Express CDMX La Villa,Calzada de Guadalupe 236,Vallejo,Gustavo A. Madero,7870,4 Estrellas,19.463825,-99.125529
+City Express CDMX Tlalpan,Calzada de Tlalpan 1561,Portales Sur,Benito Ju�rez,3300,4 Estrellas,19.3610404,-99.1434965
+City Express Central de Abasto,Eje 6 sur 540,Central de Abasto,Iztapalapa,9040,4 Estrellas,19.368699,-99.099028
+City Express EBC Reforma,Havre 21,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.427928,-99.162136
+City Express Junior Ciudad de M�xico Sullivan,Sullivan 35,San Rafael,Cuauht�moc,6470,4 Estrellas,19.43341,-99.161068
+City Express La Raza,Calzada Vallejo 296,San Francisco Xocotitla,Azcapotzalco,2960,4 Estrellas,19.468229,-99.144812
+City Express Plus Insurgentes Sur,Avenida Insurgentes Sur 1581 ,San Jos� Insurgentes,Benito Ju�rez,3900,4 Estrellas,19.364751,-99.182302
+City Express Plus Patio Universidad,Avenida Popocat�petl 546,Xoco,Benito Ju�rez,3300,4 Estrellas,19.365564,-99.167001
+City Express Plus Perif�rico Sur Tlalpan,Boulevard Adolfo Ru�z Cortines 4860,Guadalupe,Tlalpan,14388,4 Estrellas,19.285965,-99.147344
+City Express Plus Reforma El �ngel,Paseo de la Reforma 334,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.426365,-99.166804
+City Express Plus Santa Fe,Juan Salvador Agraz 71,Santa Fe Cuajimalpa,Cuajimalpa de Morelos,5348,4 Estrellas,19.358532,-99.278512
+City Suites Ciudad de M�xico Santa Fe,Juan Salvador Agraz 69,Santa Fe Cuajimalpa,Cuajimalpa de Morelos,5348,4 Estrellas,19.35884,-99.278724
+Comfort Inn Santa Fe Bosques,Paseo de la Reforma 557,Paseo de las Lomas,�lvaro Obreg�n,1330,4 Estrellas,19.375205,-99.261631
+Courtyard By Marriott M�xico City Airport,Sinaloa 31,Pe��n de los Ba�os,Venustiano Carranza,15520,4 Estrellas,19.436813,-99.082235
+Fiesta Inn Insurgentes Sur,Mercaderes 20 ,San Jos� Insurgentes ,Benito Ju�rez,3900,4 Estrellas,19.364413,-99.183068
+Fiesta Inn Plaza Central Aeropuerto,Avenida canal R�o Churubusco 1635,Central de Abasto,Iztapalapa,9040,4 Estrellas,19.378695,-99.095282
+Flowsuites WTC,Avenida del Parque 24,N�poles,Benito Ju�rez,3810,4 Estrellas,19.394909,-99.175905
+Holiday Inn Express Aeropuerto CDMX,Avenida R�o Churubusco 253,Granjas M�xico,Iztacalco,8400,4 Estrellas,19.400549,-99.098938
+Holiday Inn Express Hotel & Suites at The WTC,Dakota 95,N�poles,Benito Ju�rez,3810,4 Estrellas,19.395653,-99.174739
+Holiday Inn Express M�xico Santa Fe,Guillermo Gonz�lez Camarena 1400,Santa Fe,�lvaro Obreg�n,1210,4 Estrellas,19.364243,-99.265174
+Holiday Inn Express Santa Fe,Guillermo Gonz�lez Camarena 1400,Santa Fe,�lvaro Obreg�n,1210,4 Estrellas,19.364233,-99.265174
+Hotel & Villas Franklin,Benjam�n Franklin 76,Escand�n I secci�n,Miguel Hidalgo,11800,4 Estrellas,19.405853,-99.18071
+Hotel Abastos Plaza,Avenida Tezontle 133,Doctor Alfonso Ortiz Tirado,Iztapalapa,9020,4 Estrellas,19.382206,-99.078656
+Hotel Ambos Mundos,Avenida Revoluci�n 135,Tacubaya,Miguel Hidalgo,11870,4 Estrellas,19.402909,-99.184811
+Hotel Andrade,Doctor Andrade 69,Doctores,Cuauht�moc,6720,4 Estrellas,19.420802,-99.145871
+Hotel Aspen,Avenida Vasco de Quiroga 1840,Tlapechico,�lvaro Obreg�n,1230,4 Estrellas,19.37963,-99.245162
+Hotel Astor,Antonio Caso 83,San Rafael,Cuauht�moc,6470,4 Estrellas,19.434752,-99.160169
+Hotel Atenas Plaza,Calzada Ermita Iztapalapa 867,Santa Isabel Industrial,Iztapalapa,9820,4 Estrellas,19.355735,-99.104256
+Hotel Bonn,18 de Julio 45,Escand�n I secci�n,Miguel Hidalgo,11800,4 Estrellas,19.400053,-99.182473
+Hotel Boston Plaza,Calzada de Tlalpan 3353,Pueblo de Santa �rsula Coapa,Coyoac�n,4650,4 Estrellas,19.305726,-99.144871
+Hotel Boutique Jtower,Texas 17,N�poles,Benito Ju�rez,3810,4 Estrellas,19.392873,-99.176652
+Hotel Bristol,Plaza Necaxa 17,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.431325,-99.166978
+Hotel Caban,Guadalupe I. Ram�rez 578,Tierra Nueva,Xochimilco,16050,4 Estrellas,19.267693,-99.123019
+Hotel California,Avenida Baja California 7,Roma Sur,Cuauht�moc,6760,4 Estrellas,19.407027,-99.155808
+Hotel Camino Plaza,Calzada Ermita Iztapalapa 3419,Santa Mar�a Aztahuacan,Iztapalapa,9500,4 Estrellas,19.348635,-99.018166
+Hotel Campo Real,Prolongaci�n Divisi�n del Norte 5171,Potrero de San Bernardino,Xochimilco,16030,4 Estrellas,19.272598,-99.119557
+Hotel Canceleira,Calzada Ignacio Zaragoza 2811,Santa Martha Acatitla,Iztapalapa,9510,4 Estrellas,19.368349,-99.010904
+Hotel Carlota,R�o Amazonas 73,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.430585,-99.163398
+Hotel Catedral,Donceles 95,Centro (�rea 3),Cuauht�moc,6020,4 Estrellas,19.435836,-99.133135
+Hotel CLE,N�poles 62,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.426025,-99.159463
+Hotel Colins,Calzada Ignacio Zaragoza 2498,Santa Martha Acatitla,Iztapalapa,9510,4 Estrellas,19.377029,-99.020663
+Hotel Condesa,Calzada de Tlalpan 911,Josefa Ortiz de Dom�nguez,Benito Ju�rez,3430,4 Estrellas,19.38704,-99.139636
+Hotel Coral,Calzada de la Viga 275,Ampliaci�n Asturias,Cuauht�moc,6890,4 Estrellas,19.407637,-99.126335
+Hotel Corinto,Vallarta 24,Tabacalera,Cuauht�moc,6030,4 Estrellas,19.434457,-99.155602
+Hotel Costa del Sol,Carretera federal a Cuernavaca 5101,Chimalcoyotl,Tlalpan,14630,4 Estrellas,19.276428,-99.167415
+Hotel Del �ngel,R�o Lerma 154,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.428442,-99.168791
+Hotel Del Bosque,Melchor Ocampo 323,Nueva Anzures,Miguel Hidalgo,11590,4 Estrellas,19.431485,-99.173341
+Hotel El Diplom�tico,Avenida Insurgentes Sur 1105,Nochebuena,Benito Ju�rez,3720,4 Estrellas,19.380598,-99.177135
+Hotel El Ejecutivo,Viena 8,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.430792,-99.157346
+Hotel Escand�n by Kali,Jos� Mart� 178,Escand�n I secci�n,Miguel Hidalgo,11800,4 Estrellas,19.401972,-99.177543
+Hotel Estoril ,Luis Moya 93,Centro (�rea 7),Cuauht�moc,6070,4 Estrellas,19.428925,-99.145896
+Hotel Exe Cities Reforma,Roma 40,Ju�rez,Cuauht�moc,6000,4 Estrellas,19.429715,-99.158939
+Hotel Fiesta Inn Aeropuerto,Boulevard Puerto A�reo 502,Moctezuma segunda secci�n,Venustiano Carranza,15530,4 Estrellas,19.435172,-99.089034
+Hotel Fiesta Inn Centro Hist�rico,Avenida Ju�rez 76,Centro (�rea 2),Cuauht�moc,6010,4 Estrellas,19.434725,-99.147026
+Hotel Font�n Reforma,Paseo de la Reforma 24,Centro (�rea 4),Cuauht�moc,6040,4 Estrellas,19.436303,-99.1477
+Hotel Gillow,Isabel la Cat�lica 17,Centro (�rea 1),Cuauht�moc,6000,4 Estrellas,19.434029,-99.136244
+Hotel Gran Sol,Avenida 1 de Mayo 10,Tacubaya,Miguel Hidalgo,11870,4 Estrellas,19.3982,-99.18567
+Hotel Grand Prix,Calzada R�o Churubusco 200 esquina A�il,Granjas M�xico,Iztacalco,8400,4 Estrellas,19.402384,-99.097525
+Hotel Harare,Calzada de Tlalpan 877,Josefa Ortiz de Dom�nguez,Benito Ju�rez,3430,4 Estrellas,19.388175,-99.139291
+Hotel Hist�rico Central,Sim�n Bol�var 28,Centro (�rea 1),Cuauht�moc,6000,4 Estrellas,19.43316,-99.138372
+Hotel Inn Sur,Avenida Insurgentes Sur 4265,Santa �rsula Xitla,Tlalpan,14420,4 Estrellas,19.281266,-99.172677
+Hotel Lisboa,Avenida Cuauht�moc 273,Roma Norte,Cuauht�moc,6700,4 Estrellas,19.412185,-99.15511
+Hotel Lord,Doctor Velasco 17,Doctores,Cuauht�moc,6720,4 Estrellas,19.419152,-99.145251
+Hotel Majestic Best Western,Francisco I. Madero 73,Centro (�rea 1),Cuauht�moc,6000,4 Estrellas,19.433006,-99.134423
+Hotel Marbella,Frontera 205,Roma Norte,Cuauht�moc,6700,4 Estrellas,19.414734,-99.155085
+Hotel Mar�a Cristina,R�o Lerma 31,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.431644,-99.163342
+Hotel Metropol,Luis Moya 39,Centro (�rea 5),Cuauht�moc,6050,4 Estrellas,19.432883,-99.145173
+Hotel M�naco,Eje Guerrero 12,Buenavista,Cuauht�moc,6350,4 Estrellas,19.438722,-99.149148
+Hotel Montreal,Calzada de Tlalpan 2073,Parque San Andr�s,Coyoac�n,4040,4 Estrellas,19.343863,-99.144742
+Hotel MX forum buenavista,Eje Mosqueta 259,Buenavista,Cuauht�moc,6350,4 Estrellas,19.44916,-99.1521204
+Hotel MX Garibaldi,Honduras 11,Centro (�rea 2),Cuauht�moc,6010,4 Estrellas,19.44075,-99.137903
+Hotel Naciones,Calzada Vallejo 255,Vallejo Poniente,Gustavo A. Madero,7790,4 Estrellas,19.466826,-99.143309
+Hotel NH Collection M�xico City Reforma,Liverpool 155,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.424151,-99.165004
+Hotel NH M�xico City Centro Hist�rico,Palma 42,Centro (�rea 1),Cuauht�moc,6000,4 Estrellas,19.431649,-99.135419
+Hotel Novotel M�xico Santa Fe,Antonio Dovali Jaime 75,Santa Fe,�lvaro Obreg�n,1210,4 Estrellas,19.366914,-99.26013
+Hotel Oslo,Eje central L�zaro C�rdenas 337,Buenos Aires,Cuauht�moc,6780,4 Estrellas,19.404215,-99.145503
+Hotel Parador Real,Calzada de Tlalpan 1289,Portales Sur,Benito Ju�rez,3300,4 Estrellas,19.370084,-99.14201
+Hotel Park Villa,General G�mez Pedraza 68,San Miguel Chapultepec I secci�n,Miguel Hidalgo,11850,4 Estrellas,19.414687,-99.184638
+Hotel Pasadena Drive Inn,Avenida Revoluci�n 826,Mixcoac,Benito Ju�rez,3910,4 Estrellas,19.377857,-99.186755
+Hotel Plaza Belices,Antonio Caso 207,San Rafael,Cuauht�moc,6470,4 Estrellas,19.436321,-99.168716
+Hotel Plaza Florencia,Florencia 61,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.423976,-99.165984
+Hotel Plaza Luar,Avenida Melchor Ocampo 336,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.430464,-99.172952
+Hotel Plaza Madrid,Madrid 15,Tabacalera,Cuauht�moc,6030,4 Estrellas,19.433612,-99.156718
+Hotel Plaza Revoluci�n,Jes�s Ter�n 35,Tabacalera,Cuauht�moc,6030,4 Estrellas,19.43631,-99.151067
+Hotel Reforma Avenue,Donato Guerra 24,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.43355,-99.152703
+Hotel Regente City,Par�s 9,Tabacalera,Cuauht�moc,6030,4 Estrellas,19.433499,-99.157692
+Hotel Riazor,Viaducto R�o de la Piedad 297,La Cruz,Iztacalco,8310,4 Estrellas,19.405213,-99.118538
+Hotel Ritz,Francisco I. Madero 30,Centro (�rea 1),Cuauht�moc,6000,4 Estrellas,19.43391,-99.137879
+Hotel Room Mate Valentina,Amberes 27,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.426065,-99.165769
+Hotel Samil Plaza,Calzada de Guadalupe 54,ExHip�dromo de Peralvillo,Cuauht�moc,6250,4 Estrellas,19.456155,-99.129078
+Hotel San Francisco,Luis Moya 11,Centro (�rea 5),Cuauht�moc,6050,4 Estrellas,19.434224,-99.145017
+Hotel Segovia Regency,Avenida Chapultepec 328,Roma Norte,Cuauht�moc,6700,4 Estrellas,19.423049,-99.164419
+Hotel Sevilla,Serapio Rend�n 124,San Rafael,Cuauht�moc,6470,4 Estrellas,19.433115,-99.160821
+Hotel Siesta del Sur,Avenida Tl�huac 5393,Los Olivos,Tl�huac,13210,4 Estrellas,19.303647,-99.05837
+Hotel Stella Maris,Avenida Sullivan 69,San Rafael,Cuauht�moc,6470,4 Estrellas,19.433791,-99.162354
+Hotel Templo Mayor,Del Carmen 26,Centro (�rea 2),Cuauht�moc,6010,4 Estrellas,19.436283,-99.129624
+Hotel Torremolinos,Avenida Cuitl�huac 339,ProHogar,Azcapotzalco,2600,4 Estrellas,19.473841,-99.158727
+Hotel Tryp World Trade Center,Viaducto Miguel Alem�n 14,N�poles,Benito Ju�rez,3810,4 Estrellas,19.399146,-99.171266
+Hotel Vermont,Vermont 29,N�poles,Benito Ju�rez,3810,4 Estrellas,19.397775,-99.172645
+Hotel Viaducto,Calle 1� de Mayo 4,La Cruz,Iztacalco,8310,4 Estrellas,19.405382,-99.116834
+Hotel y Villas Pal,Avenida Arcos de Bel�n 73,Centro (�rea 7),Cuauht�moc,6070,4 Estrellas,19.427495,-99.147943
+Laila Hotel CDMX,R�o Lerma 237,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.426924,-99.17237
+Motel Porto Sol,Eje 5 Sur 72,Paseos de Churubusco,Iztapalapa,9030,4 Estrellas,19.38527,-99.181652
+Motel Real La Viga,Lorenzo Boturini 372,Lorenzo Boturini,Venustiano Carranza,15820,4 Estrellas,19.417661,-99.12689
+NH Collection Santa Fe,Juan Salvador Agraz 44,Lomas de Vista Hermosa,Cuajimalpa de Morelos,5110,4 Estrellas,19.359824,-99.278316
+Nuevo Hotel Tijuana,Ramos Mill�n 9,Ni�os H�roes,Benito Ju�rez,3440,4 Estrellas,19.383252,-99.140207
+Porto Novo Hotel & Suites,Viaducto Miguel Alem�n 645,Piedad Narvarte,Benito Ju�rez,3000,4 Estrellas,19.40283,-99.159417
+Posada Viena Hotel,Marsella 28,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.426053,-99.157575
+Ramada Reforma,Jes�s Ter�n 12,Tabacalera,Cuauht�moc,6030,4 Estrellas,19.437632,-99.15045
+Real Azteca,Calzada de Tlalpan 3441,Pueblo de Santa �rsula Coapa,Coyoac�n,4650,4 Estrellas,19.303331,-99.146614
+Sofitel Mexico City Reforma,Avenida Paseo de la Reforma 297,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.428487,-99.165911
+Stanza Hotel,Avenida �lvaro Obreg�n 13,Roma Norte,Cuauht�moc,6700,4 Estrellas,19.419515,-99.155183
+Suites Capri Colonia Roma,Sinaloa 124,Roma Norte,Cuauht�moc,6700,4 Estrellas,19.420121,-99.169317
+Suites Capri Reforma,Avenida Paseo de la Reforma 410,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.424994,-99.170849
+Suites Capri Sevilla,Sevilla 34,Ju�rez,Cuauht�moc,6600,4 Estrellas,19.422976,-99.170502
+Suites Ganges,R�o Ganges 32,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.429346,-99.172807
+Suites Georgio,R�o Lerma 166,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.428145,-99.169134
+Suites Parioli,R�o Po 108,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.429895,-99.168262
+Suites San Marco,R�o Po 125,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.429297,-99.168096
+Tacubaya Hotel y Auto Suites,Viaducto Miguel Alem�n 29,Tacubaya,Miguel Hidalgo,11870,4 Estrellas,19.400021,-99.187765
+Wyndham Garden M�xico City Polanco,Le�n Tolstoi 22,Nueva Anzures,Miguel Hidalgo,11590,4 Estrellas,19.424972,-99.177638
+Wyndham Garden Residences M�xico City,R�o Ebro 84,Cuauht�moc,Cuauht�moc,6500,4 Estrellas,19.428944,-99.169384
+Amueblados Minc Centro,Pedro Baranda 8,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.436445,-99.15185
+Apartamentos Amueblados Alzate,Jos� Antonio �lzate 10,Santa Mar�a la Ribera,Cuauht�moc,6400,3 Estrellas,19.446274,-99.153838
+Auto Hotel Max,Fernando de Alva Ixtlixochitl 23,Obrera,Cuauht�moc,6800,3 Estrellas,19.419825,-99.142439
+Auto Hotel Super Star,Norte 140,Agr�cola Pantitl�n,Iztacalco,8100,3 Estrellas,19.410918,-99.068073
+Aztic Hotel y Suites Ejecutivas,Camino al Ajusco 124 penthouse,Jardines en la Monta�a,Tlalpan,14210,3 Estrellas,19.299949,-99.208975
+Block Suites,Avenida Chapultepec 346,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.42285,-99.165142
+Casa En Reforma,Amado Nervo 73,Santa Mar�a la Ribera,Cuauht�moc,6400,3 Estrellas,19.428298,-99.169898
+Centra2 Hotel,Ernesto Pugibet 48,Centro (�rea 7),Cuauht�moc,6070,3 Estrellas,19.429845,-99.146413
+Domingo Santo Hotel Boutique,Calle Republica de Cuba 96,Centro Hist�rico,Cuauht�moc,6000,3 Estrellas,19.43693,-99.134165
+Hotel & Suites Ferri,Avenida Sara 4605,Guadalupe Tepeyac,Gustavo A. Madero,7840,3 Estrellas,19.468272,-99.116822
+Hotel & Villas Cabanna,Aquiles Serd�n 386,Guadalupita,Xochimilco,16740,3 Estrellas,19.258155,-99.024157
+Hotel & Villas Juan Diego,Avenida Insurgentes Norte 1917,Tepeyac Insurgentes,Gustavo A. Madero,7020,3 Estrellas,19.489702,-99.120586
+Hotel Aeropuerto,Boulevard Puerto A�reo 380,Moctezuma segunda secci�n,Venustiano Carranza,15530,3 Estrellas,19.432855,-99.089587
+Hotel Alpes,Calzada de Tlalpan 1512,Miravalle,Benito Ju�rez,3580,3 Estrellas,19.362754,-99.142404
+Hotel Amazonas,Calzada San Antonio Abad 161,Obrera,Cuauht�moc,6800,3 Estrellas,19.414419,-99.135206
+Hotel �mbar,San Jer�nimo 105,Centro (�rea 9),Cuauht�moc,6090,3 Estrellas,19.4264,-99.132671
+Hotel Amigo Z�calo,Moneda 8,Centro (�rea 3),Cuauht�moc,6020,3 Estrellas,19.433654,-99.130701
+Hotel Antenas,Avenida Constituci�n de la Rep�blica 182,Providencia,Gustavo A. Madero,7550,3 Estrellas,19.481194,-99.068829
+Hotel Antillas,Belisario Dom�nguez 34,Centro (�rea 2),Cuauht�moc,6010,3 Estrellas,19.438241,-99.137184
+Hotel Apatlaco,Avenida R�o Churubusco 1520,Infonavit Iztacalco,Iztacalco,8900,3 Estrellas,19.384429,-99.101077
+Hotel Aquario,Poniente 112 100,Panamericana,Gustavo A. Madero,7770,3 Estrellas,19.47678863,-99.14080797
+Hotel Aranjuez,Calzada de Tlalpan 413,�lamos,Benito Ju�rez,3400,3 Estrellas,19.401838,-99.137422
+Hotel Arizona,Avenida de la Rep�blica 20,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.436307,-99.156831
+Hotel Atlampa,Avenida R�o Consulado 661,Atlampa,Cuauht�moc,6450,3 Estrellas,19.462264,-99.159923
+Hotel Atlante,Ciencias 91,Escand�n I secci�n,Miguel Hidalgo,11800,3 Estrellas,19.403376,-99.18074
+Hotel Avilla Suites,Sombrereros 9,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.437376,-99.148412
+Hotel Azores,Rep�blica de Brasil 25,Centro (�rea 2),Cuauht�moc,6010,3 Estrellas,19.436566,-99.133684
+Hotel Brasilia,Avenida Cien Metros 4823,Panamericana,Gustavo A. Madero,7770,3 Estrellas,19.47562,-99.138786
+Hotel Canad�,5 de Mayo 47,Centro (�rea 1),Cuauht�moc,6000,3 Estrellas,19.434097,-99.135803
+Hotel Capital O Monarca,Avenida �lvaro Obreg�n 32 B,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.418607,-99.156231
+Hotel Cartagena,Norte 1 C 4835,Tlacamaca,Gustavo A. Madero,7380,3 Estrellas,19.474628,-99.138234
+Hotel Casa Blanca,Coahuila 27,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.412868,-99.156393
+Hotel Castillo,Calzada de Tlalpan 1606,Ermita,Benito Ju�rez,3590,3 Estrellas,19.359063,-99.14303
+Hotel Castropol,Avenida Pino Su�rez 58,Centro (�rea 9),Cuauht�moc,6090,3 Estrellas,19.426972,-99.132816
+Hotel Catalina,Doctor Lavista 21,Doctores,Cuauht�moc,6720,3 Estrellas,19.42373,-99.143844
+Hotel Cien Metros,Avenida 100 metros 1191,Nueva Industrial Vallejo,Gustavo A. Madero,7700,3 Estrellas,19.512902,-99.153392
+Hotel Conde,Pescaditos 15,Centro (�rea 7),Cuauht�moc,6070,3 Estrellas,19.43042,-99.146572
+Hotel Corona Real,Avenida Extremadura 192,Insurgentes Mixcoac,Benito Ju�rez,3920,3 Estrellas,19.375388,-99.186099
+Hotel Cozumel,Doctor Barrag�n 79,Doctores,Cuauht�moc,6720,3 Estrellas,19.420146,-99.144561
+Hotel Cuba,Rep�blica de Cuba 69,Centro (�rea 2),Cuauht�moc,6010,3 Estrellas,19.437092,-99.136196
+Hotel Del Dorado,Avenida Cien Metros 1021,Nueva Industrial Vallejo,Gustavo A. Madero,7700,3 Estrellas,19.512932,-99.153392
+Hotel Del Principado,Londres 42,Ju�rez,Cuauht�moc,6600,3 Estrellas,19.427347,-99.159791
+Hotel Del Rey,Viaducto Miguel Alem�n 9,Del Valle Centro,Benito Ju�rez,3100,3 Estrellas,19.399691,-99.169648
+Hotel Del Sur,Calzada Ignacio Zaragoza 1398,Juan Escutia,Iztapalapa,9100,3 Estrellas,19.39605,-99.0539
+Hotel Detroit,Zaragoza 55,Guerrero,Cuauht�moc,6300,3 Estrellas,19.440762,-99.149884
+Hotel Diligencias,Belisario Dom�nguez 6,Centro (�rea 1),Cuauht�moc,6000,3 Estrellas,19.43861,-99.139692
+Hotel Dos Naciones,Mina 13,Guerrero,Cuauht�moc,6300,3 Estrellas,19.439033,-99.141339
+Hotel Downtown,Isabel la Cat�lica 30 ,Centro (�rea 1),Cuauht�moc,6000,3 Estrellas,19.432884,-99.13628
+Hotel Duque,Avenida Cuatro 38,Valent�n G�mez Far�as,Venustiano Carranza,15010,3 Estrellas,19.419005,-99.097187
+Hotel Eje Villas y Suites,Doctor Roberto Sol�s Quiroga 213,Buenos Aires,Cuauht�moc,6780,3 Estrellas,19.404237,-99.146114
+Hotel El Castro,Sinaloa 32,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.421155,-99.164909
+Hotel El Greco,Avenida San Antonio 22,N�poles,Benito Ju�rez,3810,3 Estrellas,19.385681,-99.175931
+Hotel El Pilar,Instituto T�cnico Industrial 212,Agricultura,Miguel Hidalgo,11360,3 Estrellas,19.450963,-99.164643
+Hotel El Salvador,Rep�blica de El Salvador 16,Centro (�rea 8),Cuauht�moc,6080,3 Estrellas,19.430475,-99.140571
+Hotel El Senador,Doctor Erazo 33,Doctores,Cuauht�moc,6720,3 Estrellas,19.417991,-99.145385
+Hotel Encanto,Fernando Ram�rez 162,Obrera,Cuauht�moc,6800,3 Estrellas,19.412805,-99.135369
+Hotel Esla,Avenida Talism�n 2933,Tres Estrellas,Gustavo A. Madero,7820,3 Estrellas,19.47507,-99.111073
+Hotel Faro,Avenida Alfredo Robles Dom�nguez 197,Guadalupe Insurgentes,Gustavo A. Madero,7870,3 Estrellas,19.470309,-99.132399
+Hotel Fleming,Revillagigedo 35,Centro (�rea 5),Cuauht�moc,6050,3 Estrellas,19.432605,-99.146437
+Hotel Geneve,Quetzalc�atl 2,Tlaxpana,Miguel Hidalgo,11370,3 Estrellas,19.443743,-99.166523
+Hotel Gin,R�o �ufrates 3,Cuauht�moc,Cuauht�moc,6500,3 Estrellas,19.433557,-99.166849
+Hotel Gracia,Calzada de Tlalpan 1221,San Sim�n Ticumac,Benito Ju�rez,3660,3 Estrellas,19.373102,-99.141439
+Hotel H�roes,H�roes 207,Guerrero,Cuauht�moc,6300,3 Estrellas,19.449073,-99.14501
+Hotel Hidalgo,Santa Veracruz 37,Guerrero,Cuauht�moc,6300,3 Estrellas,19.437379,-99.142226
+Hotel Hip�dromo,Calzada Legaria 185,Torre Blanca,Miguel Hidalgo,11280,3 Estrellas,19.45473,-99.196986
+Hotel Huipulco,Huipulco 13,San Lorenzo Huipulco,Tlalpan,14370,3 Estrellas,19.29561,-99.153145
+Hotel Irys Aleph,Avenida Insurgentes Centro 96,Tabacalera,Cuauht�moc,6500,3 Estrellas,19.43522,-99.15748
+Hotel Jacarandas,Avenida R�o Consulado 7,Atlampa,Cuauht�moc,6450,3 Estrellas,19.456064,-99.163524
+Hotel K 20,Carretera federal a Cuernavaca 6233,San Pedro M�rtir,Tlalpan,14650,3 Estrellas,19.265169,-99.171718
+Hotel Kali Ciudadela,Revillagigedo 92,Centro (�rea 7),Cuauht�moc,6070,3 Estrellas,19.428413,-99.147058
+Hotel La Casa de la Luna,Sim�n Bol�var 57,Centro (�rea 1),Cuauht�moc,6000,3 Estrellas,19.430325,-99.139072
+Hotel La Luna,Calzada de Tlalpan 4383,San Lorenzo Huipulco,Tlalpan,14370,3 Estrellas,19.296961,-99.152805
+Hotel La Riviera,Aldama 9,Guerrero,Cuauht�moc,6300,3 Estrellas,19.439248,-99.151927
+Hotel La Rosa,Eligio Ancona 269,Santa Mar�a la Ribera,Cuauht�moc,6400,3 Estrellas,19.453655,-99.162973
+Hotel Las Am�ricas,Magnolia 61,Guerrero,Cuauht�moc,6300,3 Estrellas,19.442662,-99.142795
+Hotel Leo,Avenida Insurgentes Sur 4267,La Joya,Tlalpan,14090,3 Estrellas,19.281093,-99.17219
+Hotel Lepanto,Guerrero 90,Guerrero,Cuauht�moc,6300,3 Estrellas,19.442316,-99.148542
+Hotel Los Cabos,Coatzacoalcos 6,Ampliaci�n Casas Alem�n,Gustavo A. Madero,7580,3 Estrellas,19.475313,-99.088651
+Hotel Mallorca,Serapio Rend�n 119,San Rafael,Cuauht�moc,6470,3 Estrellas,19.433877,-99.160689
+Hotel Manalba,Antonio Caso 23,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.43436,-99.155312
+Hotel Manolo I,Luis Moya 111,Centro (�rea 7),Cuauht�moc,6070,3 Estrellas,19.428224,-99.1461
+Hotel Marlowe,Avenida Independencia 17,Centro (�rea 5),Cuauht�moc,6050,3 Estrellas,19.433211,-99.142426
+Hotel Marqu�s,Cayetano Andrade 51,Santa Martha Acatitla,Iztapalapa,9510,3 Estrellas,19.364044,-99.006401
+Hotel Marsella,Peralvillo 107,Morelos,Cuauht�moc,6200,3 Estrellas,19.450889,-99.131506
+Hotel Mexicali,Calzada San Antonio Abad 285,Algar�n,Cuauht�moc,6880,3 Estrellas,19.407425,-99.136261
+Hotel Miguel �ngel,Doctor Valenzuela 8,Doctores,Cuauht�moc,6720,3 Estrellas,19.426362,-99.142988
+Hotel Mil�n,Avenida �lvaro Obreg�n 94,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.418107,-99.159029
+Hotel Modelo,Avenida Alfredo Robles Dom�nguez 46,Vallejo,Gustavo A. Madero,7870,3 Estrellas,19.46834,-99.126009
+Hotel Monte Casino,Instituto Polit�cnico Nacional 5104,Capultitlan,Gustavo A. Madero,7370,3 Estrellas,19.479627,-99.135949
+Hotel Motel Misi�n Macen,Prolongaci�n Divisi�n del Norte 4931,San Lorenzo la Cebada,Xochimilco,16018,3 Estrellas,19.280436,-99.123998
+Hotel Museo,H�roes Ferrocarrileros 54,Santa Mar�a la Ribera,Cuauht�moc,6400,3 Estrellas,19.441664,-99.156351
+Hotel Mx Congreso,Avenida Ferrocarril Interoce�nico 9,Morelos,Venustiano Carranza,15270,3 Estrellas,19.435418,-99.115664
+Hotel MX Roma,M�rida 81,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.420754,-99.15816
+Hotel Nevada,Soledad 38,Centro (�rea 6),Cuauht�moc,6060,3 Estrellas,19.432402,-99.127427
+Hotel New York,Edison 45,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.436908,-99.15172
+Hotel Normandie,Virginia F�bregas 14,San Rafael,Cuauht�moc,6470,3 Estrellas,19.442628,-99.16532
+Hotel Norte,Zaragoza 155,Guerrero,Cuauht�moc,6300,3 Estrellas,19.445814,-99.148644
+Hotel Nuevo Laredo,Avenida Albeniz 125,Vallejo,Gustavo A. Madero,7870,3 Estrellas,19.468407,-99.140348
+Hotel Olimpo,Avenida No� 90,Guadalupe Tepeyac,Gustavo A. Madero,7840,3 Estrellas,19.466594,-99.119307
+Hotel Palace,Ignacio Ram�rez 7,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.434997,-99.154608
+Hotel Panorama,Platino 20,Valle G�mez,Cuauht�moc,6240,3 Estrellas,19.45769,-99.127262
+Hotel Parque V�a,Lago Gascasonica 15,Tacuba,Miguel Hidalgo,11410,3 Estrellas,19.460758,-99.18982
+Hotel Pigal,Aldama 28,Buenavista,Cuauht�moc,6350,3 Estrellas,19.439685,-99.151816
+Hotel Pisa,Avenida Insurgentes Centro 58,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.437142,-99.156644
+Hotel Playa Internacional,Nezahualc�yotl 52,Centro (�rea 8),Cuauht�moc,6080,3 Estrellas,19.425667,-99.140009
+Hotel Plaza Sol�s,Antonio Sol�s 101,Obrera,Cuauht�moc,6800,3 Estrellas,19.409434,-99.139214
+Hotel Polanco,Edgar Allan Poe 8,Polanco V secci�n,Miguel Hidalgo,11560,3 Estrellas,19.428797,-99.200506
+Hotel Premier,Atenas 72,Ju�rez,Cuauht�moc,6600,3 Estrellas,19.431243,-99.156643
+Hotel Princesa,Calzada de Tlalpan 952,Nativitas,Benito Ju�rez,3500,3 Estrellas,19.384101,-99.139166
+Hotel Pr�ncipe ,Viaducto Miguel Alem�n 113,Escand�n I secci�n,Miguel Hidalgo,11800,3 Estrellas,19.40288,-99.161867
+Hotel Puebla,Puebla 36,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.423697,-99.155782
+Hotel Puente,Avenida Cuatro 18,Valent�n G�mez Far�as,Venustiano Carranza,15010,3 Estrellas,19.419595,-99.098346
+Hotel Rex,Obrero Mundial 937,�lamos,Benito Ju�rez,3400,3 Estrellas,19.402813,-99.137342
+Hotel Roble,Rep�blica de Uruguay 109,Centro (�rea 6),Cuauht�moc,6060,3 Estrellas,19.429902,-99.132764
+Hotel Roosevelt,Avenida Insurgentes Sur 287,Hip�dromo,Cuauht�moc,6100,3 Estrellas,19.41563,-99.165761
+Hotel Rossel Plaza,Avenida Francisco del Paso y Troncoso 45,Granjas M�xico,Iztacalco,8400,3 Estrellas,19.399517,-99.11333
+Hotel Rub�,Carretera federal a Cuernavaca 5813,Chimalcoyotl,Tlalpan,14630,3 Estrellas,19.262425,-99.174264
+Hotel San Antonio,Segundo callej�n de 5 de Mayo 29,Centro (�rea 1),Cuauht�moc,6000,3 Estrellas,19.433734,-99.135528
+Hotel San Diego,Luis Moya 98,Centro (�rea 7),Cuauht�moc,6070,3 Estrellas,19.428973,-99.145642
+Hotel San Lorenzo,Enna 14,San Lorenzo Xicotencatl,Iztapalapa,9130,3 Estrellas,19.380699,-99.026672
+Hotel San Lucas,Plaza de San Lucas 6,Centro (�rea 9),Cuauht�moc,6090,3 Estrellas,19.424462,-99.13251
+Hotel San Mart�n,Eje central L�zaro C�rdenas 84,Guerrero,Cuauht�moc,6300,3 Estrellas,19.442569,-99.139802
+Hotel Selina M�xico Downtown,Avenida Jos� Mar�a Izazaga 8,Centro (�rea 8),Cuauht�moc,6080,3 Estrellas,19.427019,-99.141528
+Hotel Seoul,Lecumberri 79,Morelos,Venustiano Carranza,15270,3 Estrellas,19.437037,-99.12136
+Hotel Suido,Avenida Insurgentes Norte 751,San Sim�n Tolnahuac,Cuauht�moc,6920,3 Estrellas,19.462357,-99.14308
+Hotel Suites Embassy,Puebla 115,Roma Norte,Cuauht�moc,6700,3 Estrellas,19.423013,-99.160077
+Hotel Ticom�n Plaza,Avenida Ticom�n 3461,Santa Mar�a Ticom�n,Gustavo A. Madero,7330,3 Estrellas,19.514247,-99.134602
+Hotel Turista Las Flores,Calzada de Tlalpan 1909,Parque San Andr�s,Coyoac�n,4040,3 Estrellas,19.348634,-99.145744
+Hotel Tur�stico Churubusco,Calzada de Tlalpan 1737,San Diego Churubusco,Coyoac�n,4120,3 Estrellas,19.354272,-99.144998
+Hotel Uxmal,Madrid 13,Tabacalera,Cuauht�moc,6030,3 Estrellas,19.433654,-99.156781
+Hotel Vigo,Avenida Cuitl�huac 151,ProHogar,Azcapotzalco,2600,3 Estrellas,19.473354,-99.151999
+Hotel Villa de Madrid,Calzada de Guadalupe 195,7 de Noviembre,Gustavo A. Madero,7840,3 Estrellas,19.462082,-99.12569
+Hotel Villa Quijotes,Moctezuma 20,Arag�n la Villa,Gustavo A. Madero,7000,3 Estrellas,19.480593,-99.117189
+Hotel Villas Coloniales,Calzada Camarones 575,Santa Mar�a Malinalco,Azcapotzalco,2050,3 Estrellas,19.474385,-99.181577
+Hotel Xo Ha,Carretera federal a Cuernavaca 5855,San Pedro M�rtir,Tlalpan,14650,3 Estrellas,19.260837,-99.173953
+Hotel y Villas Ajusco,Carretera Picacho Ajusco 941,Lomas de Padierna,Tlalpan,14240,3 Estrellas,19.28016,-99.214144
+Ibis M�xico Alameda,Balderas 49,Centro (�rea 5),Cuauht�moc,6050,3 Estrellas,19.433629,-99.147949
+Ibis Styles M�xico Zona Rosa,Liverpool 115 A,Ju�rez,Cuauht�moc,6600,3 Estrellas,19.425023,-99.162785
+Motel Ermita,Calzada Ermita Iztapalapa 1575,San Miguel,Iztapalapa,9360,3 Estrellas,19.353434,-99.080791
+Motel Los Arcos,Carretera federal M�xico Toluca 4419 kilometro 14 1/2,Cooperativa Palo Alto,Cuajimalpa de Morelos,5110,3 Estrellas,19.383773,-99.251156
+Motel Quinta Loreto,Miguel Lerdo de Tejada 260,Ampliaci�n Petrolera,Azcapotzalco,2470,3 Estrellas,19.484497,-99.195482
+Motel Torre Negra,Calle 6 284,Agr�cola Pantitl�n,Iztacalco,8100,3 Estrellas,19.41269,-99.058954
+One Ciudad de M�xico Alameda,Avenida Ju�rez 88,Centro (�rea 4),Cuauht�moc,6040,3 Estrellas,19.435021,-99.147836
+One Ciudad de M�xico La Raza,Circuito Interior Avenida R�o Consulado 130,Santa Mar�a Insurgentes,Cuauht�moc,6430,3 Estrellas,19.462987,-99.148504
+One Ciudad de M�xico Patriotismo,Avenida Patriotismo 229,San Pedro de los Pinos,Benito Ju�rez,3800,3 Estrellas,19.396183,-99.180575
+One Ciudad de M�xico Perif�rico Sur,Perif�rico Sur 5530,Pedregal de Carrasco,Coyoac�n,4700,3 Estrellas,19.302921,-99.165622
+Paraiso del Sur Villas & Suites  ,Carretera federal a Cuernavaca 5109,Chimalcoyotl,Tlalpan,14630,3 Estrellas,19.276053,-99.167447
+Ryo Kan,R�o Panuco 166,Ju�rez,Cuauht�moc,6500,3 Estrellas,19.4286732,-99.1715069
+Suites Capri Polanco,Francisco Petrarca 118,Polanco V secci�n,Miguel Hidalgo,11570,3 Estrellas,19.436965,-99.18552
+Suites Marne,R�o Marne 12,Cuauht�moc,Cuauht�moc,6500,3 Estrellas,19.431323,-99.161356
+Suites N�poles,Lucerna 58,Ju�rez,Cuauht�moc,6600,3 Estrellas,19.429931,-99.156364
+Suites Newton,Newton 46,Polanco V secci�n,Miguel Hidalgo,11560,3 Estrellas,19.430945,-99.192252
+Apartamentos Amueblados Colonia Del Valle,Avenida Colonia del Valle 407,Del Valle Centro,Benito Ju�rez,3100,2 Estrellas,19.390051,-99.166334
+Apartamentos Amueblados San Antonio,Avenida San Antonio 84,N�poles,Benito Ju�rez,3810,2 Estrellas,19.385235,-99.179373
+Gran Hotel La Paz,Mina 141,Guerrero,Cuauht�moc,6300,2 Estrellas,19.439911,-99.147978
+Gran Hotel Texas,Ignacio Mariscal 129,Tabacalera,Cuauht�moc,6030,2 Estrellas,19.438203,-99.154397
+Hotel �lamos,Eje Central L�zaro C�rdenas 416,�lamos,Benito Ju�rez,3400,2 Estrellas,19.40088,-99.145111
+Hotel Ampudia,Anillo de Circunvalaci�n 619,Centro (�rea 3),Cuauht�moc,6020,2 Estrellas,19.427008,-99.125539
+Hotel �ndes,Strauss 77,Vallejo,Gustavo A. Madero,7870,2 Estrellas,19.46754,-99.138746
+Hotel Antas,Miguel Negrete 9,Centro ,Cuauht�moc,15100,2 Estrellas,19.433687,-99.123793
+Hotel Atlanta,Belisario Dom�nguez 31,Centro (�rea 2),Cuauht�moc,6010,2 Estrellas,19.438025,-99.13761
+Hotel Beethoven,Beethoven 219,Peralvillo,Cuauht�moc,6220,2 Estrellas,19.461863,-99.14036
+Hotel Bellini,Bellini 1,Peralvillo,Cuauht�moc,6220,2 Estrellas,19.458917,-99.128783
+Hotel Bolivia,Rep�blica de Bolivia 23,Centro (�rea 3),Cuauht�moc,6020,2 Estrellas,19.439199,-99.131965
+Hotel Cadillac,Jos� Mar�a Izazaga 35,Centro (�rea 8),Cuauht�moc,6080,2 Estrellas,19.426397,-99.139947
+Hotel Calvin,Jos� Azueta 33,Centro (�rea 5),Cuauht�moc,6050,2 Estrellas,19.43385,-99.146846
+Hotel Casa Silencio,Calzada de Tlalpan 959,Ni�os H�roes,Benito Ju�rez,3440,2 Estrellas,19.385301,-99.139567
+Hotel Chopo,Doctor Enrique Gonz�lez Mart�nez  7,Santa Mar�a la Ribera,Cuauht�moc,6400,2 Estrellas,19.44079,-99.156492
+Hotel Cies,Avenida Melchor Ocampo 304,Cuauht�moc,Cuauht�moc,6500,2 Estrellas,19.512295,-99.036629
+Hotel Cima,Alfonso Ceballos 12,Moctezuma,Venustiano Carranza,15500,2 Estrellas,19.426939,-99.107978
+Hotel Ciudad Real,16 de Septiembre 26,Centro de Azcapotzalco,Azcapotzalco,2000,2 Estrellas,19.478501,-99.1862
+Hotel Claver�a,Avenida Cuitlahuac 3101,Obrero Popular,Azcapotzalco,2840,2 Estrellas,19.464997,-99.177321
+Hotel Consulado,Avenida Melchor Ocampo 23,An�huac,Miguel Hidalgo,11320,2 Estrellas,19.442148,-99.166953
+Hotel Continental Mexicano,Callej�n San Marcos 20,Centro (�rea 6),Cuauht�moc,6060,2 Estrellas,19.433128,-99.125181
+Hotel C�rdoba,Fray Servando Teresa de Mier 511,Merced Balbuena,Venustiano Carranza,15810,2 Estrellas,19.421895,-99.121152
+Hotel Cuernavaca,Carretera federal a Cuernavaca 5201,Chimalcoyotl,Tlalpan,14630,2 Estrellas,19.275334,-99.167412
+Hotel D'Casa,Carretones 140,Merced Balbuena,Venustiano Carranza,15100,2 Estrellas,19.424909,-99.12028
+Hotel Del Parque,Avenida Presidente Plutarco El�as Calles 882,Barrio San Pedro,Iztacalco,8220,2 Estrellas,19.393397,-99.131698
+Hotel Dharma,Eje Mosqueta 200,Buenavista,Cuauht�moc,6350,2 Estrellas,19.444848,-99.147684
+Hotel Durango,Avenida R�o Consulado Circuito Interior 104,Santa Mar�a Insurgentes,Cuauht�moc,6430,2 Estrellas,19.463547,-99.146783
+Hotel Edison,Edison 106,Tabacalera,Cuauht�moc,6030,2 Estrellas,19.437551,-99.155116
+Hotel El Dorado,Orozco y Berra 131,Buenavista,Cuauht�moc,6350,2 Estrellas,19.440509,-99.153863
+Hotel El Patio,Avenida Insurgentes Norte 734,Santa Mar�a Insurgentes,Cuauht�moc,6430,2 Estrellas,19.462771,-99.144932
+Hotel Empire,Manuel Othon 14,Obrera,Cuauht�moc,6800,2 Estrellas,19.41527,-99.143012
+Hotel Ermita,Avenida Revoluci�n 102,Tacubaya,Miguel Hidalgo,11870,2 Estrellas,19.404241,-99.184484
+Hotel Esperanza,Esperanza 1155,Narvarte Poniente,Benito Ju�rez,3020,2 Estrellas,19.399998,-99.151893
+Hotel Estadio,Chiapas 5,Roma Norte,Cuauht�moc,6700,2 Estrellas,19.4142,-99.154791
+Hotel Ex-Hacienda Xaltocan,Camino de Nativitas 491 A,Barrio Xaltocan,Xochimilco,16090,2 Estrellas,19.251736,-99.098227
+Hotel Faro,Doctor Pascua 18,Doctores,Cuauht�moc,6720,2 Estrellas,19.421968,-99.143845
+Hotel Ferrol,Mina 135,Guerrero,Cuauht�moc,6300,2 Estrellas,19.439913,-99.147712
+Hotel Florida,Belisario Dom�nguez 57,Centro (�rea 2),Cuauht�moc,6010,2 Estrellas,19.437923,-99.135948
+Hotel Gilbert,Amado Nervo 37,Santa Mar�a la Ribera,Cuauht�moc,6400,2 Estrellas,19.443221,-99.157
+Hotel Guadalajara,Ray�n 54,Morelos,Cuauht�moc,6200,2 Estrellas,19.444062,-99.136476
+Hotel Habana,Rep�blica de Cuba 77,Centro (�rea 2),Cuauht�moc,6010,2 Estrellas,19.436939,-99.135453
+Hotel Hidalgo,Doctor Barrag�n 163,Doctores,Cuauht�moc,6720,2 Estrellas,19.416413,-99.145009
+Hotel Ibiza,Ponciano Arriaga 22,Tabacalera,Cuauht�moc,6030,2 Estrellas,19.437488,-99.153684
+Hotel Isabel,Isabel la Cat�lica 63,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.429882,-99.137003
+Hotel Jardines de Churubusco,Calzada de Tlalpan 1885,Churubusco Country Club,Coyoac�n,4210,2 Estrellas,19.34943,-99.145816
+Hotel Ju�rez,Primer callej�n de 5 de Mayo 17,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.434498,-99.135625
+Hotel La Fuente,Orozco y Berra 10,Guerrero,Cuauht�moc,6300,2 Estrellas,19.439091,-99.149391
+Hotel La Marina,Allende 30,Centro (�rea 2),Cuauht�moc,6010,2 Estrellas,19.43808,-99.137799
+Hotel La Paloma,Orozco y Berra 187,Santa Mar�a la Ribera,Cuauht�moc,6400,2 Estrellas,19.441251,-99.155943
+Hotel La Raza,Avenida Insurgentes Norte 788,Santa Mar�a Insurgentes,Cuauht�moc,6430,2 Estrellas,19.464329,-99.143881
+Hotel La Villa,Calzada de Guadalupe 677,Arag�n la Villa,Gustavo A. Madero,7000,2 Estrellas,19.460596,-99.126397
+Hotel Lafayette,Motolinia  40,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.43255,-99.137358
+Hotel Las Am�ricas,Joaqu�n Arriaga 91,Obrera,Cuauht�moc,6800,2 Estrellas,19.415677,-99.135026
+Hotel Latino,Nezahualc�yotl 201 ,Centro (�rea 9),Cuauht�moc,6090,2 Estrellas,19.424887,-99.133365
+Hotel Lavanda,Avenida Insurgentes Norte 1700,Lindavista,Gustavo A. Madero,7760,2 Estrellas,19.481735,-99.127403
+Hotel Maga,Juan A. Mateos 159,Obrera,Cuauht�moc,6800,2 Estrellas,19.410156,-99.135782
+Hotel Managua,Plaza de San Fernando 11,Guerrero,Cuauht�moc,6300,2 Estrellas,19.438601,-99.148178
+Hotel Mart�,Arquitectos 63 esquina con Jos� Mart�,Escand�n I secci�n,Miguel Hidalgo,11800,2 Estrellas,19.400746,-99.172369
+Hotel Mazatl�n,Callej�n de La Igualdad 29,Centro (�rea 8),Cuauht�moc,6080,2 Estrellas,19.425391,-99.140586
+Hotel Miramar,Calzada de Tlalpan 1550,Miravalle,Benito Ju�rez,3580,2 Estrellas,19.361188,-99.142643
+Hotel Moctezuma,Moctezuma 21,Arag�n la Villa,Gustavo A. Madero,7000,2 Estrellas,19.480355,-99.117289
+Hotel Montecarlo,Rep�blica de Uruguay 69,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.430372,-99.136094
+Hotel Montemar,Valent�n G�mez Far�as 53,San Rafael,Cuauht�moc,6470,2 Estrellas,19.437599,-99.158576
+Hotel Morelos,General Francisco Arce 14,Juan Escutia,Iztapalapa,9100,2 Estrellas,19.387154,-99.038268
+Hotel Muy,Antonio Caso 144,San Rafael,Cuauht�moc,6470,2 Estrellas,19.435211,-99.164757
+Hotel Nav�o,Adolfo Gurri�n 37,Merced Balbuena,Venustiano Carranza,15810,2 Estrellas,19.424225,-99.125617
+Hotel Nayarit,Platino 25,Maza,Cuauht�moc,6270,2 Estrellas,19.457264,-99.12684
+Hotel Niza,Mesones 61,Centro (�rea 8),Cuauht�moc,6080,2 Estrellas,19.428489,-99.13648
+Hotel Oxford,Ignacio Mariscal 67,Tabacalera,Cuauht�moc,6030,2 Estrellas,19.437508,-99.151941
+Hotel P�nuco,Ayuntamiento 148,Centro (�rea 4),Cuauht�moc,6040,2 Estrellas,19.431328,-99.149846
+Hotel Patria,Rep�blica de El Salvador 137,Centro (�rea 9),Cuauht�moc,6090,2 Estrellas,19.428826,-99.131346
+Hotel Pennsylvania,Ignacio Mariscal 101,Tabacalera,Cuauht�moc,6030,2 Estrellas,19.43804,-99.153466
+Hotel Platino,Platino 298,Felipe �ngeles,Venustiano Carranza,15310,2 Estrellas,19.453682,-99.11441
+Hotel Plaza Las Torres,Zaragoza 47,A�o de Ju�rez,Iztapalapa,9780,2 Estrellas,19.317997,-99.073144
+Hotel Polimpo,Petr�leos Mexicanos 90,Petrolera,Azcapotzalco,2480,2 Estrellas,19.484261,-99.195437
+Hotel Polo,Doctor Garc�a Diego 67,Doctores,Cuauht�moc,6720,2 Estrellas,19.416694,-99.146856
+Hotel Portales,Suiza 46,Portales Oriente,Benito Ju�rez,3570,2 Estrellas,19.368514,-99.141364
+Hotel Prado Floresta,Doctor Valenzuela 51,Doctores,Cuauht�moc,6720,2 Estrellas,19.42347,-99.14391
+Hotel Princess,Rep�blica de Cuba 55,Centro (�rea 2),Cuauht�moc,6010,2 Estrellas,19.436992,-99.136731
+Hotel Principal,Bol�var 29,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.432926,-99.138601
+Hotel Quinta Las Delicias,Antonio Van Dick 24,Mixcoac,Benito Ju�rez,3910,2 Estrellas,19.378176,-99.188571
+Hotel R�o,Manuel Dublan 31,Tacubaya,Miguel Hidalgo,11870,2 Estrellas,19.401243,-99.189936
+Hotel Rioja,5 de Mayo 45,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.434086,-99.135828
+Hotel San Juan,Doctor Jes�s Valenzuela 40,Doctores,Cuauht�moc,6720,2 Estrellas,19.424427,-99.143351
+Hotel San L�zaro,Avenida Congreso de la Uni�n 480,Jamaica,Venustiano Carranza,15800,2 Estrellas,19.406285,-99.121427
+Hotel Sol,Avenida Cuitl�huac 23,Prohogar,Azcapotzalco,2600,2 Estrellas,19.473452,-99.147096
+Hotel Tacuba,Golfo de Gabes 72,Tacuba,Miguel Hidalgo,11410,2 Estrellas,19.455577,-99.185725
+Hotel Turismo,Delibes 4439,Guadalupe Victoria,Gustavo A. Madero,7790,2 Estrellas,19.471665,-99.140066
+Hotel �nico,Escuela M�dico Militar 20,Centro (�rea 9),Cuauht�moc,6090,2 Estrellas,19.424402,-99.130615
+Hotel Vista Alegre 1,Prolongaci�n Zaragoza 33,San Sim�n Tolnahuac,Cuauht�moc,6920,2 Estrellas,19.458603,-99.145741
+Hotel Washington,5 de Mayo 54,Centro (�rea 1),Cuauht�moc,6000,2 Estrellas,19.434274,-99.135287
+Hotel Zaragoza,Zaragoza 256,Guerrero,Cuauht�moc,6300,2 Estrellas,19.450355,-99.148225
+Motel Afrodita,Instituto Polit�cnico Nacional 4709,Tlacamaca,Gustavo A. Madero,7380,2 Estrellas,19.474082,-99.136758
+Motel Central Inn S.A. de C.V.,Pochtecas 17,Central de Abasto,Iztapalapa,9040,2 Estrellas,19.380244,-99.088961
+Motel La Flor,Avenida Insurgentes Norte 1020,Tlacamaca,Gustavo A. Madero,7380,2 Estrellas,19.473603,-99.136075
+Motel Quinta Bugambilias S.A. de C.V.,Calzada de la Viga 185,Paulino Navarro,Cuauht�moc,6870,2 Estrellas,19.41324,-99.12904
+MOTEL QUINTA MARGARITA S.A. DE C.V. ,Calzada Ermita Iztapalapa 1542 F,San Miguel,Iztapalapa,9699,2 Estrellas,19.355366,-99.083603
+Motel Tentaci�n S.A. de C.V.,Guelatao 80,Santa Mar�a Aztahuacan,Iztapalapa,9500,2 Estrellas,19.359593,-99.040181
+Posada Real de Ju�rez,Tokio 66,Ju�rez,Cuauht�moc,6600,2 Estrellas,19.42345,-99.17225
+Quinta Inn Motel S.A. de C.V.,Avenida 5 Eje 3 Oriente,Granjas San Antonio,Iztapalapa,9070,2 Estrellas,19.359861,-99.110378
+Santa Fe Hotel,Carretera Federal M�xicoToluca kilometro 13.2  1285,Lomas Altas de Santa Fe,�lvaro Obreg�n,1219,2 Estrellas,19.388295,-99.240193
+Suites Extasis S.A. de C.V.,Avenida Xochimilco 211,Agr�cola Pantitl�n,Iztacalco,8100,2 Estrellas,19.413361,-99.06371
+Suites Florencia Motel S.A. de C.V.,Avenida Xochimilco 44,Agr�cola Pantitl�n,Iztacalco,8100,2 Estrellas,19.413477,-99.06021
+Suites Havre,Havre 74,Ju�rez,Cuauht�moc,6600,2 Estrellas,19.425473,-99.160362
+Apartamentos Altamira,Miguel Ramos Arizpe 28,Tabacalera,Cuauht�moc,6030,1 Estrella,19.437282,-99.152654
+Hotel Alc�zar,Doctor Liceaga 143,Doctores,Cuauht�moc,6720,1 Estrella,19.422361,-99.150773
+Hotel Alvarado,Fray Bernardino de Sahag�n 12,Buenavista,Cuauht�moc,6350,1 Estrella,19.439752,-99.15416
+Hotel Am�rica,Buenavista 4,Guerrero,Cuauht�moc,6300,1 Estrella,19.439553,-99.15336
+Hotel Ancona,Eligio Ancona 226,Santa Mar�a la Ribera,Cuauht�moc,6400,1 Estrella,19.453052,-99.160948
+Hotel Astoria,Zarco 39,Guerrero,Cuauht�moc,6300,1 Estrella,19.439711,-99.1461
+Hotel Atoyac,Guerrero 161,Guerrero,Cuauht�moc,6300,1 Estrella,19.445518,-99.147251
+Hotel Aviaci�n,Avenida Iztlaccihuatl 109,Moctezuma,Venustiano Carranza,15500,1 Estrella,19.428663,-99.10405
+Hotel Bah�a,Mar Irlanda 2,An�huac,Miguel Hidalgo,11320,1 Estrella,19.451937,-99.184944
+Hotel Baj�o,Tonal� 357,Roma Sur,Cuauht�moc,6760,1 Estrella,19.404821,-99.159467
+Hotel Balbuena,Carretones 136,Merced Balbuena,Venustiano Carranza,15810,1 Estrella,19.424885,-99.120502
+Hotel Barreda,Gabino Barreda 33,San Rafael,Cuauht�moc,6470,1 Estrella,19.440766,-99.163419
+Hotel Bernal D�az,Bernal D�az del Castillo 19,Guerrero,Cuauht�moc,6300,1 Estrella,19.440341,-99.154349
+Hotel Bolivar Suites,Sim�n Bol�var 375,Obrera,Cuauht�moc,6800,1 Estrella,19.41165,-99.141789
+Hotel Bugambilias,Calzada Ignacio Zaragoza 1316,Juan Escutia,Iztapalapa,9100,1 Estrella,19.397253,-99.05614
+Hotel Caleta,Juan de Dios Peza 155,Obrera,Cuauht�moc,6800,1 Estrella,19.413125,-99.135908
+Hotel Campeche,Campeche 62,Roma Sur,Cuauht�moc,6760,1 Estrella,19.410323,-99.161638
+Hotel Casa Blanca,Manuel Gutierrez N�jera 34 A,Obrera,Cuauht�moc,6800,1 Estrella,19.41578,-99.142156
+Hotel Celta,Lorenzo Boturini 41,Obrera,Cuauht�moc,6800,1 Estrella,19.41862,-99.141593
+Hotel Central,Eje Mosqueta 248,Buenavista,Cuauht�moc,6350,1 Estrella,19.44559,-99.150044
+Hotel Cervantes,Coahuila 25,Roma Norte,Cuauht�moc,6700,1 Estrella,19.412665,-99.15614
+Hotel Coloso,Fernando de Alva Ixtlilxochitl 12 A,Obrera,Cuauht�moc,6800,1 Estrella,19.42033,-99.142774
+Hotel Congreso,Allende 18,Centro (�rea 2),Cuauht�moc,6010,1 Estrella,19.437159,-99.138129
+Hotel C�nsul,Avenida Insurgentes Centro 133,San Rafael,Cuauht�moc,6470,1 Estrella,19.433316,-99.158739
+Hotel Corona,Calzada General Mariano Escobedo  65 B,Popotla,Miguel Hidalgo,11400,1 Estrella,19.451784,-99.181947
+Hotel Covadonga,2 de Abril 40,Guerrero,Cuauht�moc,6300,1 Estrella,19.438564,-99.141813
+Hotel Dalje,Alfredo Chavero 170,Tr�nsito,Cuauht�moc,6820,1 Estrella,19.41707,-99.133429
+Hotel Del Norte,Avenida Canal del Norte 13,Morelos,Cuauht�moc,6200,1 Estrella,19.452714,-99.129312
+Hotel Diana,Santa Cruz 18,Portales Sur,Benito Ju�rez,3300,1 Estrella,19.370362,-99.142353
+Hotel Drigales,Eje Mosqueta 32,Guerrero,Cuauht�moc,6300,1 Estrella,19.443961,-99.140142
+Hotel Embajadores,Comonfort 18 A,Centro (�rea 2),Cuauht�moc,6010,1 Estrella,19.443082,-99.135391
+Hotel Escorial,Callej�n del Hormiguero 4,Centro (�rea 9),Cuauht�moc,6090,1 Estrella,19.424357,-99.131176
+Hotel Espa�a,Avenida Puente de Alvarado 100,Tabacalera,Cuauht�moc,6030,1 Estrella,19.439339,-99.155095
+Hotel Goya,Manuel Othon 133,Obrera,Cuauht�moc,6800,1 Estrella,19.414515,-99.136339
+Hotel Heraldo,Polo Norte 27,Angel Zimbr�n,Azcapotzalco,2099,1 Estrella,19.47134,-99.188333
+Hotel Imperio,Calzada Legaria 3,Tacuba,Miguel Hidalgo,11410,1 Estrella,19.459378,-99.190189
+Hotel Jalisco,Avenida Jalisco 150,Tacubaya,Miguel Hidalgo,11870,1 Estrella,19.406782,-99.185008
+Hotel La Joya,Ezequiel Montes 35,Tabacalera,Cuauht�moc,6030,1 Estrella,19.438394,-99.155923
+Hotel La Selva,Calzada Chabacano 7,Asturias,Cuauht�moc,6850,1 Estrella,19.40826,-99.135145
+Hotel La Toja,Libertad 60 A,Peralvillo,Cuauht�moc,6220,1 Estrella,19.444516,-99.136263
+Hotel Las Glorias,Mar Mediterr�neo 76,Tacuba,Miguel Hidalgo,11410,1 Estrella,19.459423,-99.184126
+Hotel Las Vegas,Anillo de Circunvalaci�n 1023,Centro (�rea 9),Cuauht�moc,6090,1 Estrella,19.424574,-99.125822
+Hotel Lirio,Tr�nsito 4,Tacubaya,Miguel Hidalgo,11870,1 Estrella,19.4012,-99.186506
+Hotel Macao,Eje central L�zaro C�rdenas 56,Centro (�rea 8),Cuauht�moc,6080,1 Estrella,19.419503,-99.143302
+Hotel Madero,Fray Juan de Zum�rraga 127,Villa Gustavo A. Madero,Gustavo A. Madero,7050,1 Estrella,19.482464,-99.114589
+Hotel Manolete,Lerdo 60,Guerrero,Cuauht�moc,6300,1 Estrella,19.443754,-99.142748
+Hotel Marlyn,Eje Central L�zaro C�rdenas 47,Doctores,Cuauht�moc,6720,1 Estrella,19.424113,-99.142886
+Hotel Mazoy,Mina 220,Buenavista,Cuauht�moc,6350,1 Estrella,19.44056,-99.151999
+Hotel Mina,Salgado 18,Buenavista,Cuauht�moc,6350,1 Estrella,19.439937,-99.149427
+Hotel Mi�o,Ignacio Zaragoza 25,Buenavista,Cuauht�moc,6350,1 Estrella,19.438843,-99.150334
+Hotel Moctezuma,Moctezuma 138,Guerrero,Cuauht�moc,6300,1 Estrella,19.444161,-99.146072
+Hotel Moderno,Incas 9,Centro (�rea 2),Cuauht�moc,6010,1 Estrella,19.440497,-99.136592
+Hotel Oasis,Calzada Ignacio Zaragoza 3887,Santa Martha Acatitla,Iztapalapa,9510,1 Estrella,19.360583,-99.000416
+Hotel Orense,Lucas Alam�n 12,Obrera,Cuauht�moc,6800,1 Estrella,19.421536,-99.14265
+Hotel Para�so,Campeche 186,Roma Sur,Cuauht�moc,6760,1 Estrella,19.409343,-99.166564
+Hotel Para�so,Ignacio Mariscal 99,Tabacalera,Cuauht�moc,6030,1 Estrella,19.437844,-99.153125
+Hotel Pensil,Lago Bolsena 21,An�huac,Miguel Hidalgo,11320,1 Estrella,19.446473,-99.190996
+Hotel Polly,Orozco y Berra 25,Guerrero,Cuauht�moc,6300,1 Estrella,19.439456,-99.150153
+Hotel Progreso,Cerrada de la Paz 7,Escand�n I secci�n,Miguel Hidalgo,11800,1 Estrella,19.405445,-99.182022
+Hotel Prohogar,Calle 17 104,Pro-hogar,Azcapotzalco,2600,1 Estrella,19.474218,-99.150022
+Hotel Recreo,Callej�n del Hormiguero 12,Centro (�rea 9),Cuauht�moc,6090,1 Estrella,19.424373,-99.131449
+Hotel Rep�blica,Rep�blica de Cuba 57,Centro (�rea 2),Cuauht�moc,6010,1 Estrella,19.437096,-99.136843
+Hotel Ribadavia,Wagner 6,Ex-Hip�dromo de Peralvillo,Cuauht�moc,6250,1 Estrella,19.454763,-99.132556
+Hotel R�o,Isabel la Cat�lica 304,Obrera,Cuauht�moc,6800,1 Estrella,19.415401,-99.138449
+Hotel R�o Mi�o,Miguel Dom�nguez 28,Morelos,Venustiano Carranza,15270,1 Estrella,19.436727,-99.119664
+Hotel Riva Palacio,Pedro Moreno 14,Guerrero,Cuauht�moc,6300,1 Estrella,19.440852,-99.140191
+Hotel Riviera,Jos� Mar�a Roa B�rcenas 117,Obrera,Cuauht�moc,6800,1 Estrella,19.439507,-99.151641
+Hotel Rosas Moreno,Rosas Moreno 68 Bis,San Rafael,Cuauht�moc,6470,1 Estrella,19.438077,-99.161421
+Hotel San Alfonso,Circunvalaci�n 16,Morelos,Venustiano Carranza,15270,1 Estrella,19.440953,-99.114861
+Hotel San Fernando,San Fernando 36,Guerrero,Cuauht�moc,6300,1 Estrella,19.438696,-99.147889
+Hotel San Lorenzo,Lorenzo Boturini 176,Obrera,Cuauht�moc,6800,1 Estrella,19.418248,-99.134839
+Hotel Savoy,Zaragoza 10,Guerrero,Cuauht�moc,6300,1 Estrella,19.438605,-99.150526
+Hotel Taxco,Juli�n Montiel 35,Obrera,Cuauht�moc,6800,1 Estrella,19.418656,-99.140126
+Hotel T�o Sam,Fernando Ram�rez 15,Obrera,Cuauht�moc,6800,1 Estrella,19.413043,-99.143203
+Hotel Tit�n,Eje Central L�zaro C�rdenas 132,Obrera,Cuauht�moc,6800,1 Estrella,19.414816,-99.143674
+Hotel Tres Colonias,Ribera de San Cosme 132,San Rafael,Cuauht�moc,6470,1 Estrella,19.442733,-99.164045
+Hotel Tres Mar�as,Manuel Gutierrez N�jera 277,Tr�nsito,Cuauht�moc,6820,1 Estrella,19.414731,-99.130284
+Hotel Triana,Avenida Popocatepetl 88,Portales Norte,Benito Ju�rez,3303,1 Estrella,19.360263,-99.146467
+Hotel Turismo,Avenida Poniente 106  72,Defensores de la Rep�blica,Gustavo A. Madero,7780,1 Estrella,19.471643,-99.14009
+Hotel Universal,Calzada de Guadalupe 25,Maza,Cuauht�moc,6270,1 Estrella,19.454608,-99.129252
+Hotel Valencia,Rep�blica de Guatemala 73,Centro (�rea 6),Cuauht�moc,6060,1 Estrella,19.434325,-99.129185
+Hotel Victoria,Pedro Luis Gazon 4,Guerrero,Cuauht�moc,6300,1 Estrella,19.445256,-99.140302
+Hotel Villa Del Mar,Prolongaci�n Juventino Rosas 8,Ex-Hip�dromo de Peralvillo,Cuauht�moc,6250,1 Estrella,19.456952,-99.128845
+Hotel Villa Hermosa,Juventino Rosas 20,Ex-Hip�dromo de Peralvillo,Cuauht�moc,6250,1 Estrella,19.457094,-99.128999
+Hotel Vista Alegre,Calzada de Guadalupe 594,Industrial,Gustavo A. Madero,7800,1 Estrella,19.477652,-99.120348
+Hotel Waikiki,Sim�n Bol�var 303,Obrera,Cuauht�moc,6080,1 Estrella,19.415316,-99.141135
+Motel New,Paganini 120,Vallejo,Gustavo A. Madero,7870,1 Estrella,19.468795,-99.136379
+Amueblados Illinois,Illinois 67,Ciudad de los Deportes,Benito Ju�rez,3710,Sin Clasificar,19.384605,-99.178933
+Anys Hostal y Cafeter�a,Puebla 203,Roma Norte,Cuauht�moc,6700,Sin Clasificar,19.422116,-99.165185
+Apartamentos Amueblados Kansas,Kansas 32 interior 7,N�poles,Benito Ju�rez,3810,Sin Clasificar,19.388302,-99.175447
+Apartamentos Amueblados Viga,Calzada de la Viga 423,Viaducto Piedad,Iztacalco,8200,Sin Clasificar,19.403208,-99.125866
+Apartamentos Madrid Once,Madrid 11,Tabacalera,Cuauht�moc,6030,Sin Clasificar,19.433664,-99.156482
+Casa Castelar,Avenida Nuevo Le�n 108,Hip�dromo,Cuauht�moc,6100,Sin Clasificar,19.42916,-99.192962
+Casa Comtesse,Benjam�n Franklin 197 ,Hip�dromo Condesa,Cuauht�moc,6140,Sin Clasificar,19.404694,-99.173815
+Casa Cranfill,Puebla 303,Roma Norte,Cuauht�moc,6700,Sin Clasificar,19.421126,-99.077352
+Casa de Hu�spedes,Mar de Java 45,Popotla,Miguel Hidalgo,11400,Sin Clasificar,19.45483,-99.174275
+Casa de Hu�spedes Amueblados Amado Nervo,Amado Nervo 73,Santa Mar�a la Ribera,Cuauht�moc,6400,Sin Clasificar,19.443739,-99.159614
+Casa de Hu�spedes Amueblados Frontera,Degollado 91,Guerrero,Cuauht�moc,6300,Sin Clasificar,19.44546,-99.143139
+Casa Pepe Hostal Boutique,Rep�blica de Uruguay 86,Centro Hist�rico,Cuauht�moc,6000,Sin Clasificar,19.43025,-99.134345
+Casa San Ildefonso,San Ildefonso 38,Centro (�rea 3),Cuauht�moc,6020,Sin Clasificar,19.43649,-99.13044
+Chillout Flat Bed And Breakfast,Bol�var 8 interior 102 ,Centro (�rea 1),Cuauht�moc,6000,Sin Clasificar,19.435154,-99.138064
+Condesa Suites,Juan de la Barrera 66,Condesa,Cuauht�moc,6140,Sin Clasificar,19.41629,-99.175273
+Greene's Tours Suite,Segunda cerrada de San Angel Inn 20,San �ngel Inn,�lvaro Obreg�n,1060,Sin Clasificar,19.346927,-99.204618
+Hostal Amigo,Isabel la Cat�lica 61-A,Centro (�rea 1),Cuauht�moc,6000,Sin Clasificar,19.43008,-99.136997
+Hostal Mexiqui,Rep�blica de Guatemala 30,Centro Hist�rico,Cuauht�moc,6020,Sin Clasificar,19.434989,-99.132339
+Hostal Regina,5 de Febrero 53,Centro (�rea 9),Cuauht�moc,6090,Sin Clasificar,19.427724,-99.135093
+Hostel Catedral Mundo Joven,Rep�blica de Guatemala 4,Centro (�rea 3),Cuauht�moc,6020,Sin Clasificar,19.435199,-99.133607
+Hostel Condesa Chapultepec,Cozumel 53-A,Roma Norte,Cuauht�moc,6700,Sin Clasificar,19.418378,-99.170902
+Hostel Home,Tabasco 303,Roma Norte,Cuauht�moc,6700,Sin Clasificar,19.417749,-99.166954
+Hostel Zona Rosa,Cerrada de Hamburgo 3,Ju�rez,Cuauht�moc,6600,Sin Clasificar,19.42607,-99.166415
+Hotel Agua Caliente,Calzada Ignacio Zaragoza 846,Agr�cola Pantitl�n,Iztacalco,8100,Sin Clasificar,19.408653,-99.075768
+Hotel Balmis,Doctor Balmis 21,Doctores,Cuauht�moc,6720,Sin Clasificar,19.414395,-99.14491
+Hotel Boston,Rep�blica de Brasil 113,Morelos,Cuauht�moc,6200,Sin Clasificar,19.443746,-99.132679
+Hotel Cadena,Lucas Alam�n 73,Obrera,Cuauht�moc,6800,Sin Clasificar,19.421045,-99.139438
+Hotel Canad�,Lago Cuitzeo 245,An�huac,Miguel Hidalgo,11320,Sin Clasificar,19.441106,-99.174913
+Hotel Del Comercio,Fray Bernardino de Sahag�n 19,Guerrero,Cuauht�moc,6300,Sin Clasificar,19.37065,-99.14229
+Hotel Del Sur,Lago Garda 113,An�huac,Miguel Hidalgo,11320,Sin Clasificar,19.449292,-99.181067
+Hotel Dur�n,Doctor Dur�n 99,Doctores,Cuauht�moc,6720,Sin Clasificar,19.412398,-99.149709
+Hotel Gama,Lago Zug 21,Torre Blanca,Miguel Hidalgo,11280,Sin Clasificar,19.458914,-99.191623
+Hotel Hispano,Avenida de las Granjas 214,Centro de Azcapotzalco,Azcapotzalco,2000,Sin Clasificar,19.475371,-99.175559
+Hotel Jamaica,Calzada de la Viga 325,Asturias,Cuauht�moc,6850,Sin Clasificar,19.406816,-99.127008
+Hotel Jerez,Adolfo Gurri�n 96,Merced Balbuena,Venustiano Carranza,15810,Sin Clasificar,19.423851,-99.122484
+Hotel Kennedy,Fray Servando Teresa de Mier 760,Jard�n Balbuena,Venustiano Carranza,15900,Sin Clasificar,19.419657,-99.109619
+Hotel La Milpa,Avenida Centenario 2126,Santiago Atzacoalco,Gustavo A. Madero,7040,Sin Clasificar,19.501514,-99.094552
+Hotel Laredo,Rep�blica de Per� 72,Centro (�rea 2),Cuauht�moc,6010,Sin Clasificar,19.439821,-99.134663
+Hotel Lira,Gobernador Jos� Ceballos 70,San Miguel Chapultepec I secci�n,Miguel Hidalgo,11850,Sin Clasificar,19.409999,-99.189936
+Hotel Marconi,H�roes 8 Bis,Guerrero,Cuauht�moc,6300,Sin Clasificar,19.438366,-99.147535
+Hotel Marin / 77,Antonio Caso 177,San Rafael,Cuauht�moc,6470,Sin Clasificar,19.435768,-99.166936
+Hotel Minero Napole�n,Monte Alb�n 71,Narvarte Poniente,Benito Ju�rez,3020,Sin Clasificar,19.396795,-99.150337
+Hotel Necaxa,Carretones 39,Merced Balbuena,Venustiano Carranza,15810,Sin Clasificar,19.42528,-99.125246
+Hotel Niza,Mixcalco 14,Centro (�rea 3),Cuauht�moc,6020,Sin Clasificar,19.435127,-99.126312
+Hotel Piet,Calzada de Guadalupe 152,Ex-Hip�dromo de Peralvillo,Cuauht�moc,6270,Sin Clasificar,19.460147,-99.126998
+Hotel Pir�mides,Jos� Mar�a Rico 632,Del Valle Centro,Benito Ju�rez,3100,Sin Clasificar,19.366923,-99.169598
+Hotel Regina,Regina 133,Centro (�rea 2),Cuauht�moc,6010,Sin Clasificar,19.426979,-99.130311
+Hotel R�o de Janeiro,Rep�blica de Brasil 45,Centro (�rea 3),Cuauht�moc,6020,Sin Clasificar,19.43917,-99.133276
+Hotel San Antonio,Diagonal San Antonio 1947,Narvarte Poniente,Benito Ju�rez,3020,Sin Clasificar,19.402084,-99.145276
+Hotel Soledad,Callej�n Lecheras 26,Centro (�rea 6),Cuauht�moc,6060,Sin Clasificar,19.431597,-99.125971
+Hotel Valencia,Mar Negro 24,Tacuba,Miguel Hidalgo,11410,Sin Clasificar,19.456716,-99.187794
+Hotel Zamora,5 de Mayo 50,Centro (�rea 2),Cuauht�moc,6010,Sin Clasificar,19.43433,-99.135484
+M�xico City Hostel,Rep�blica de Brasil 8,Centro (�rea 2),Cuauht�moc,6010,Sin Clasificar,19.435606,-99.133915
+M�xico City Hostel Suites,Rep�blica de Brasil 11,Centro (�rea 3),Cuauht�moc,6020,Sin Clasificar,19.435706,-99.133784
+Quinta Alma Sof�a Hostal Campestre,Camino a San Francisco 7904,El Cedral,Xochimilco,16870,Sin Clasificar,19.214245,-99.120954
+Suites Mi Casa,General Prim 106,Ju�rez,Cuauht�moc,6600,Sin Clasificar,19.43099,-99.156851
+Suites Obelisk,Julio Verne 28,Polanco V secci�n,Miguel Hidalgo,11560,Sin Clasificar,19.428115,-99.197535
+The Host Business Suites,Magdalena 311,Del Valle,Benito Ju�rez,3100,Sin Clasificar,19.392075,-99.1720609
+The Red Tree House,Culiac�n 6,Hip�dromo,Cuauht�moc,6100,Sin Clasificar,19.40894,-99.171302
