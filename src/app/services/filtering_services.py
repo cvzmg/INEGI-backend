@@ -328,13 +328,13 @@ if __name__ == "__main__":
 
 
 
-    """filter=get_best_filter(data_work,data_sport,data_school,data_religion,data_marriage,data_culture,data_budget,data_people,data_housing,\
+    filter=get_best_filter(data_work,data_sport,data_school,data_religion,data_marriage,data_culture,data_budget,data_people,data_housing,\
                            data_recreation,data_security_women,data_security_everyone,data_green,data_health,data_restaurant,data_transportation,\
                             0,0,2,1,1,1,1,6000000,1,1,1,1,30,0,1,0,0,0)
-    print(filter)"""
+    print(filter)
 
-    alcaldia_info=get_alcaldia_info(data_work,data_sport,data_school,data_religion,data_marriage,data_culture,data_budget,data_people,data_housing,\
+    """alcaldia_info=get_alcaldia_info(data_work,data_sport,data_school,data_religion,data_marriage,data_culture,data_budget,data_people,data_housing,\
                       data_recreation,data_security_women,data_security_everyone,data_green,data_health,data_restaurant,data_transportation,"Coyoacán")
-    print(alcaldia_info)
+    print(alcaldia_info)"""
 
    
