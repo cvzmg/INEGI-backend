@@ -3,13 +3,14 @@ let
 in
 pkgs.mkShell {
   buildInputs = [
-    pkgs.python311
+    pkgs.python310
     pkgs.gcc
     pkgs.zeromq
     # Add additional dependencies that might be needed
     pkgs.pkg-config
     pkgs.libffi
     pkgs.openssl
+    pkgs.zlib  # <-- Add zlib here
   ];
   
   # Fixed LD_LIBRARY_PATH - this is the key fix
@@ -18,6 +19,7 @@ pkgs.mkShell {
     pkgs.zeromq
     pkgs.libffi
     pkgs.openssl
+    pkgs.zlib  # <-- And also here
   ];
   
   shellHook = ''
