@@ -36,9 +36,7 @@ def render_sidebar(t):
         if st.session_state.get('lang') != language_key:
             st.session_state.lang = language_key
             st.rerun()
-
         st.header(t("sidebar.header"), divider=True)
-        
         work_options = {t(f"options.work_{i}"): i for i in range(5)}; work_options[t("options.doesnt_matter")] = 5
         school_options = {t("options.doesnt_matter"): 0, t("options.basic_education"): 1, t("options.higher_education"): 2}
         religion_options = {t("options.doesnt_matter"): 0, t("options.judeo_christian"): 1, t("options.other_religions"): 2, t("options.no_religion"): 3}
@@ -47,7 +45,6 @@ def render_sidebar(t):
         sex_options = {t("options.doesnt_matter"): 0, t("options.male"): 1, t("options.female"): 2}
         transportation_options = {t("options.doesnt_matter"): 0, t("options.metro"): 1, t("options.metrobus"): 2, t("options.ecobici"): 3, t("options.rtp"): 4}
         yes_no_options = {t("options.no"): 0, t("options.yes"): 1}
-
         col1, col2 = st.columns(2)
         with col1:
             st.subheader(t("sidebar.lifestyle_subheader"))
@@ -58,7 +55,6 @@ def render_sidebar(t):
             recreation_choice_str = st.selectbox(t("filters.recreational_areas"), options=list(yes_no_options.keys()))
             restaurant_choice_str = st.selectbox(t("filters.restaurants"), options=list(yes_no_options.keys()))
             transportation_choice_str = st.selectbox(t("filters.public_transport"), options=list(transportation_options.keys()))
-
         with col2:
             st.subheader(t("sidebar.demographics_subheader"))
             sex_choice_str = st.selectbox(t("filters.gender"), options=list(sex_options.keys()), index=1)
@@ -68,18 +64,16 @@ def render_sidebar(t):
             age = st.slider(t("filters.your_age"), 18, 100, 30, disabled=(yes_no_options[age_choice_str] == 0))
             people_choice_str = st.selectbox(t("filters.filter_by_household"), options=list(yes_no_options.keys()), index=1)
             number_people = st.slider(t("filters.household_size"), 1, 10, 1, disabled=(yes_no_options[people_choice_str] == 0))
-
         st.subheader(t("sidebar.housing_subheader"), divider=True)
         budget_choice_str = st.selectbox(t("filters.buy_or_rent"), options=list(budget_options.keys()), index=1)
         budget = st.number_input(t("filters.your_budget"), min_value=0, max_value=50000000, value=6000000, step=100000, disabled=(budget_options[budget_choice_str] == 0))
         green_choice_str = st.selectbox(t("filters.green_spaces"), options=list(yes_no_options.keys()), index=1)
         health_choice_str = st.selectbox(t("filters.health_centers"), options=list(yes_no_options.keys()))
-        
         apply_button = st.button(t("sidebar.button_text"), use_container_width=True)
         filter_values = { "work_choice": work_options[work_choice_str], "sport_choice": yes_no_options[sport_choice_str], "school_choice": school_options[school_choice_str], "religion_choice": religion_options[religion_choice_str], "marriage_choice": marriage_options[marriage_choice_str], "culture_choice": yes_no_options[culture_choice_str], "budget_choice": budget_options[budget_choice_str], "budget": budget, "sex_choice": sex_options[sex_choice_str], "people_choice": yes_no_options[people_choice_str], "number_people": number_people, "age_choice": yes_no_options[age_choice_str], "age": age, "recreation_choice": yes_no_options[recreation_choice_str], "green_choice": yes_no_options[green_choice_str], "health_choice": yes_no_options[health_choice_str], "restaurant_choice": yes_no_options[restaurant_choice_str], "transportation_choice": transportation_options[transportation_choice_str] }
         return filter_values, apply_button
 
-# --- Funciones de Gráficos (Actualizadas) ---
+# --- Funciones de Gráficos (sin cambios) ---
 
 def create_recommendation_map(gdf, color_map):
     m = folium.Map(location=[19.4326, -99.1332], zoom_start=10, tiles="CartoDB positron")
@@ -98,15 +92,14 @@ def create_results_chart(ranked_alcaldias, color_map, t):
     return fig
 
 def desaturate_color(hex_color, amount=0.4, lighten=0.25):
-    """Desatura y aclara un color HEX."""
     r, g, b = hex2rgb(hex_color)
     h, s, v = colorsys.rgb_to_hsv(r / 255.0, g / 255.0, b / 255.0)
-    s *= amount  # Reducir saturación
-    v += (1.0 - v) * lighten # Aclarar
+    s *= amount
+    v += (1.0 - v) * lighten
     r_new, g_new, b_new = [int(c * 255) for c in colorsys.hsv_to_rgb(h, s, v)]
     return rgb2hex(r_new, g_new, b_new)
 
-def create_stacked_bar_chart(plot_data, id_col, value_cols, title, ranked_alcaldias, t):
+def create_stacked_bar_chart(plot_data, id_col, value_cols, title, ranked_alcaldias, t, plot_key):
     if not plot_data: return None
     df = pd.DataFrame(plot_data).copy()
 
@@ -130,29 +123,24 @@ def create_stacked_bar_chart(plot_data, id_col, value_cols, title, ranked_alcald
     for i, metric in enumerate(valid_cols):
         color_saturado = base_colors[i % len(base_colors)]
         color_desaturado = desaturate_color(color_saturado)
-        
         colors = [color_saturado if is_ranked else color_desaturado for is_ranked in df_norm['is_ranked']]
         
+        legend_name = t(f"legend_labels.{plot_key}.{metric}")
+
         fig.add_trace(go.Bar(
-            y=df_norm[id_col],
-            x=df_norm[metric],
-            name=metric.replace('_PORCENTAJE_MUN', '').replace('P12YM_', ''),
-            orientation='h',
-            marker_color=colors,
+            y=df_norm[id_col], x=df_norm[metric],
+            name=legend_name, orientation='h', marker_color=colors,
             text=df_norm[metric].apply(lambda x: f'{x:.1f}%'),
-            textposition='inside',
-            insidetextanchor='middle'
+            textposition='inside', insidetextanchor='middle'
         ))
 
-    fig.update_layout(
-        barmode='stack', title=title, 
-        yaxis={'categoryorder':'array', 'categoryarray': df_norm[id_col].tolist()},
-        legend_title_text='Categoría', xaxis_title="Porcentaje (%)", yaxis_title="",
-        uniformtext_minsize=8, uniformtext_mode='hide'
-    )
+    fig.update_layout(barmode='stack', title=title, 
+                      yaxis={'categoryorder':'array', 'categoryarray': df_norm[id_col].tolist()},
+                      legend_title_text='Categoría', xaxis_title="Porcentaje (%)", yaxis_title="",
+                      uniformtext=dict(minsize=8, mode='show'))
     return fig
 
-def create_comparison_plot(plot_data, id_col, value_cols, title, ranked_alcaldias, color_map, t):
+def create_comparison_plot(plot_data, id_col, value_cols, title, ranked_alcaldias, color_map, t, data_format=None):
     if not plot_data: return None
     df = pd.DataFrame(plot_data)
 
@@ -171,7 +159,14 @@ def create_comparison_plot(plot_data, id_col, value_cols, title, ranked_alcaldia
     df_melted = df.melt(id_vars=[id_col, 'Status'], value_vars=valid_cols, var_name='Metric', value_name='Value')
 
     fig = px.bar(df_melted, y=id_col, x='Value', color='Status', orientation='h', title=title,
-                 color_discrete_map=plot_color_map, text_auto='.3s')
+                 color_discrete_map=plot_color_map)
+
+    if data_format == 'percent':
+        fig.update_traces(texttemplate='%{x:.1%}', textposition='inside')
+        fig.update_xaxes(title_text="Porcentaje (%)")
+    else:
+        fig.update_traces(texttemplate='%{x:.3s}', textposition='inside')
+        
     fig.update_layout(showlegend=True, yaxis={'categoryorder':'total ascending'}, legend_title_text='Ranking')
     fig.update_yaxes(title='')
     return fig
@@ -217,44 +212,51 @@ def main():
         st.header(t("plots.main_header"), divider=True)
         all_plot_data = get_all_alcaldias_data_handler(datasets)
 
+        # --- CONFIGURACIÓN FINAL DE GRÁFICOS ---
         PLOT_CONFIGS = [
             {"type": "stacked", "key": "Workforce", "data_key": "Work", "id": "ALCALDIA", "vals": ["Funcionarios, profesionistas, técnicos y administrativos", "Trabajadores agropecuarios", "Trabajadores en la industria", "Comerciantes y trabajadores en servicios diversos"]},
             {"type": "stacked", "key": "Marital Status", "data_key": "Marital Status", "id": "NOM_MUN", "vals": ["P12YM_CASA_PORCENTAJE_MUN", "P12YM_SOLT_PORCENTAJE_MUN", "P12YM_SEPA_PORCENTAJE_MUN"]},
             {"type": "stacked", "key": "Age Distribution", "data_key": "Age Distribution", "id": "NOM_MUN", "vals": ["18_A_30_P", "30_A_60_P", "MAS_60_P"]},
             {"type": "stacked", "key": "Transportation", "data_key": "Transportation", "id": "Alcaldias", "vals": ["Lineas de metro_PORCENTAJE_MUN", "Lineas de metrobus_PORCENTAJE_MUN", "Estaciones Ecobici_PORCENTAJE_MUN", "LineasRTP_PORCENTAJE_MUN"]},
             {"type": "stacked", "key": "Schools", "data_key": "Schools", "id": "ALCALDIA", "vals": ["NO_ESCUELAS_BASICAS_PORCENTAJE_MUN", "NO_ESCUELAS_SUPERIORES_PORCENTAJE_MUN"]},
-            {"type": "stacked", "key": "Religion", "data_key": "Religion", "id": "NOM_MUN", "vals": ["PCATOLICA_PORCENTAJE_MUN", "PRO_CRIEVA_PORCENTAJE_MUN", "PSIN_RELIG_PORCENTAJE_MUN"]},
+            {"type": "stacked", "key": "Religion", "data_key": "Religion", "id": "NOM_MUN", "vals": ["PCATOLICA_PORCENTAJE_MUN", "PRO_CRIEVA_PORCENTAJE_MUN", "POTRAS_REL_PORCENTAJE_MUN", "PSIN_RELIG_PORCENTAJE_MUN"]},
             {"type": "stacked", "key": "Gender Distribution", "data_key": "Gender Distribution", "id": "NOM_MUN", "vals": ["POBFEM_PORCENTAJE_MUN", "POBMAS_PORCENTAJE_MUN"]},
-            {"type": "simple", "key": "Sports Centers", "data_key": "Sports Centers", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"]},
-            {"type": "simple", "key": "Cultural Venues", "data_key": "Cultural Venues", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"]},
-            {"type": "simple", "key": "Budget", "data_key": "Budget", "id": "Alcaldia", "vals": ["venta", "Renta"]},
+            {"type": "simple", "key": "Sports Centers", "data_key": "Sports Centers", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"], "format": "percent"},
+            {"type": "simple", "key": "Cultural Venues", "data_key": "Cultural Venues", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"], "format": "percent"},
+            {"type": "simple", "key": "Budget_Sale", "data_key": "Budget", "id": "Alcaldia", "vals": ["venta"]},
+            {"type": "simple", "key": "Budget_Rent", "data_key": "Budget", "id": "Alcaldia", "vals": ["Renta"]},
             {"type": "simple", "key": "Household Size", "data_key": "Household Size", "id": "NOM_MUN", "vals": ["PROM_OCUP"]},
-            {"type": "simple", "key": "Housing Quality", "data_key": "Housing Quality", "id": "NOM_MUN", "vals": ["BUEN_EDO"]},
-            {"type": "simple", "key": "Recreational Spaces", "data_key": "Recreational Spaces", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"]},
+            {"type": "simple", "key": "Housing Quality", "data_key": "Housing Quality", "id": "NOM_MUN", "vals": ["BUEN_EDO"], "format": "percent"},
+            {"type": "simple", "key": "Recreational Spaces", "data_key": "Recreational Spaces", "id": "ALCALDIA", "vals": ["HISTORIC_PERCENTAGE"], "format": "percent"},
             {"type": "simple", "key": "Security for Women", "data_key": "Security for Women", "id": "NOM_MUN", "vals": ["normalized"]},
             {"type": "simple", "key": "General Security", "data_key": "General Security", "id": "NOM_MUN", "vals": ["normalized"]},
-            {"type": "simple", "key": "Green Spaces", "data_key": "Green Spaces", "id": "Alcaldía", "vals": ["Superficie (m²)_PORCENTAJE"]},
-            {"type": "simple", "key": "Health Centers", "data_key": "Health Centers", "id": "Demarcación territorial", "vals": ["NUMERO_CENTROS_PORCENTAJE"]},
-            {"type": "simple", "key": "Restaurants", "data_key": "Restaurants", "id": "alcaldia", "vals": ["tipo"]},
+            {"type": "simple", "key": "Green Spaces", "data_key": "Green Spaces", "id": "Alcaldía", "vals": ["Superficie (m²)_PORCENTAJE"], "format": "percent"},
+            {"type": "simple", "key": "Health Centers", "data_key": "Health Centers", "id": "Demarcación territorial", "vals": ["NUMERO_CENTROS_PORCENTAJE"], "format": "percent"},
+            {"type": "simple", "key": "Restaurants", "data_key": "Restaurants", "id": "alcaldia", "vals": ["tipo"], "format": "percent"},
         ]
 
         TABS_CONFIG = {
-            "Lifestyle & Environment": ["Workforce", "Sports Centers", "Cultural Venues", "Recreational Spaces", "Green Spaces", "Restaurants"],
-            "Demographics & Housing": ["Age Distribution", "Marital Status", "Gender Distribution", "Religion", "Household Size", "Housing Quality", "Budget"],
-            "Security & Services": ["General Security", "Security for Women", "Health Centers", "Schools", "Transportation"]
+            "tab1": ["Workforce", "Transportation", "Schools", "Health Centers"],
+            "tab2": ["Cultural Venues", "Recreational Spaces", "Restaurants", "Sports Centers", "Green Spaces"],
+            "tab3": ["Marital Status", "Age Distribution", "Religion", "Gender Distribution"],
+            "tab4": ["Budget_Sale", "Budget_Rent", "Household Size", "Housing Quality"],
+            "tab5": ["Security for Women", "General Security"]
         }
 
-        tabs = st.tabs(list(TABS_CONFIG.keys()))
-        for i, (tab_title, plot_keys) in enumerate(TABS_CONFIG.items()):
+        tab_titles = [t(f"tabs.{key}") for key in TABS_CONFIG.keys()]
+        tabs = st.tabs(tab_titles)
+
+        for i, (tab_key, plot_keys) in enumerate(TABS_CONFIG.items()):
             with tabs[i]:
                 plot_configs_for_tab = [c for c in PLOT_CONFIGS if c['key'] in plot_keys]
                 for config in plot_configs_for_tab:
                     title_key = config['key'].lower().replace(' ', '_')
                     data = all_plot_data.get(config["data_key"])
+                    plot_key_for_labels = config['key'].lower().replace(' ', '_')
                     if config["type"] == "stacked":
-                        fig = create_stacked_bar_chart(data, config["id"], config["vals"], t(f"plot_titles.{title_key}"), ranked_alcaldias_list, t)
+                        fig = create_stacked_bar_chart(data, config["id"], config["vals"], t(f"plot_titles.{title_key}"), ranked_alcaldias_list, t, plot_key_for_labels)
                     else:
-                        fig = create_comparison_plot(data, config["id"], config["vals"], t(f"plot_titles.{title_key}"), ranked_alcaldias_list, alcaldia_color_map, t)
+                        fig = create_comparison_plot(data, config["id"], config["vals"], t(f"plot_titles.{title_key}"), ranked_alcaldias_list, alcaldia_color_map, t, data_format=config.get("format"))
                     if fig: st.plotly_chart(fig, use_container_width=True)
 
 if __name__ == "__main__":
