@@ -44,10 +44,20 @@ LANGUAGES = {
             "transportation": { "Lineas de metro_PORCENTAJE_MUN": "Metro Lines", "Lineas de metrobus_PORCENTAJE_MUN": "Metrobus Lines", "Estaciones Ecobici_PORCENTAJE_MUN": "Ecobici Stations", "LineasRTP_PORCENTAJE_MUN": "RTP Lines" }
         },
         "ui": {
-            "title": "SETTLY 🏠", "subtitle": "Your personal guide...", "spinner_text": "Analyzing your preferences...", "map_header": "Map of Recommendations", "chart_header": "Recommendation Score", "chart_info": "Apply filters to see your personalized ranking.", "expander_title": "View Raw Geographic Data"
+            "title": "SETTLY 🏠", "subtitle": "Your personal guide...", "spinner_text": "Analyzing your preferences...", "map_header": "Map of Recommendations", "chart_header": "Recommendation Score", "chart_info": "Apply filters to see your personalized ranking.", "expander_title": "View Raw Geographic Data",
+            "genai_header": "✨ Your Personalized Summary",
+            "genai_primary": "Top Recommendation",
+            "genai_secondary": "Other Good Options",
+            "genai_summary": "In a Nutshell",
+            "genai_spinner": "🤖 Crafting your personalized summary...",
+            "genai_warning": "Could not generate AI summary. Please check your API key.",
+            "news_header": "📰 Latest News from Your Recommended Alcaldías",
+            "no_news_found": "No recent news found for this alcaldía."
         },
         "sidebar": {
             "header": "Find Your Ideal Alcaldía", "button_text": "🚀 Find My Alcaldía",
+            "bio_subheader": "About You (Optional)",
+            "bio_placeholder": "Tell us a bit about yourself: your profession, hobbies, lifestyle, what you value in a neighborhood..."
         },
         "filters": {
             "work_situation": "Work Situation", "sports_centers": "Importance of Sports Centers", "education_level": "Education Level", "cultural_venues": "Importance of Cultural Venues", "recreational_areas": "Importance of Recreational Areas", "restaurants": "Importance of Restaurants", "public_transport": "Primary Public Transport", "gender": "Gender", "marital_status": "Marital Status", "religion": "Religious Preference", "filter_by_age": "Filter by Age?", "your_age": "Your Age", "filter_by_household": "Filter by Household Size?", "household_size": "People in Household", "buy_or_rent": "Buy or Rent?", "your_budget": "Your Budget (MXN)", "green_spaces": "Importance of Green Spaces", "health_centers": "Importance of Health Centers"
@@ -94,10 +104,20 @@ LANGUAGES = {
             "transportation": { "Lineas de metro_PORCENTAJE_MUN": "Líneas de Metro", "Lineas de metrobus_PORCENTAJE_MUN": "Líneas de Metrobús", "Estaciones Ecobici_PORCENTAJE_MUN": "Estaciones Ecobici", "LineasRTP_PORCENTAJE_MUN": "Líneas RTP" }
         },
         "ui": {
-            "title": "SETTLY 🏠", "subtitle": "Tu guía personal...", "spinner_text": "Analizando tus preferencias...", "map_header": "Mapa de Recomendaciones", "chart_header": "Puntuación de Recomendación", "chart_info": "Aplica los filtros para ver tu ranking personalizado.", "expander_title": "Ver Datos Geográficos Crudos"
+            "title": "SETTLY 🏠", "subtitle": "Tu guía personal...", "spinner_text": "Analizando tus preferencias...", "map_header": "Mapa de Recomendaciones", "chart_header": "Puntuación de Recomendación", "chart_info": "Aplica los filtros para ver tu ranking personalizado.", "expander_title": "Ver Datos Geográficos Crudos",
+            "genai_header": "✨ Tu Resumen Personalizado",
+            "genai_primary": "Recomendación Principal",
+            "genai_secondary": "Otras Buenas Opciones",
+            "genai_summary": "En Resumen",
+            "genai_spinner": "🤖 Creando tu resumen personalizado...",
+            "genai_warning": "No se pudo generar el resumen de IA. Por favor, verifica tu clave de API.",
+            "news_header": "📰 Últimas Noticias de tus Alcaldías Recomendadas",
+            "no_news_found": "No se encontraron noticias recientes para esta alcaldía."
         },
         "sidebar": {
             "header": "Encuentra Tu Alcaldía Ideal", "button_text": "🚀 Encuentra Mi Alcaldía",
+            "bio_subheader": "Sobre Ti (Opcional)",
+            "bio_placeholder": "Cuéntanos un poco sobre ti: tu profesión, pasatiempos, estilo de vida, qué valoras en una colonia..."
         },
         "filters": {
             "work_situation": "Situación Laboral", "sports_centers": "Importancia de Centros Deportivos", "education_level": "Nivel Educativo", "cultural_venues": "Importancia de Espacios Culturales", "recreational_areas": "Importancia de Áreas Recreativas", "restaurants": "Importancia de Restaurantes", "public_transport": "Transporte Público Principal", "gender": "Género", "marital_status": "Estado Civil", "religion": "Preferencia Religiosa", "filter_by_age": "¿Filtrar por Edad?", "your_age": "Tu Edad", "filter_by_household": "¿Filtrar por Tamaño del Hogar?", "household_size": "Personas en el Hogar", "buy_or_rent": "¿Comprar o Rentar?", "your_budget": "Tu Presupuesto (MXN)", "green_spaces": "Importancia de Espacios Verdes", "health_centers": "Importancia de Centros de Salud"
