@@ -11,7 +11,9 @@ LANGUAGES = {
         },
         "plots": {
             "main_header": "Detailed Comparison of Alcaldías",
-            "other_alcaldias": "Other Alcaldías"
+            "other_alcaldias": "Other Alcaldías",
+            "xaxis_percentage": "Percentage (%)",
+            "security_threshold": "Minimum Safety Threshold"
         },
         "plot_titles": {
             "workforce": "Workforce Distribution by Sector",
@@ -46,17 +48,21 @@ LANGUAGES = {
         "ui": {
             "title": "SETTLY 🏠", "subtitle": "Your personal guide...", "spinner_text": "Analyzing your preferences...", "map_header": "Map of Recommendations", "chart_header": "Recommendation Score", "chart_info": "Apply filters to see your personalized ranking.", "expander_title": "View Raw Geographic Data",
             "genai_header": "✨ Your Personalized Summary",
+            "summary_tab_title": "✨ Personalized Summary",
+            "gallery_tab_title": "🖼️ Image Gallery",
             "genai_primary": "Top Recommendation",
             "genai_secondary": "Other Good Options",
             "genai_summary": "In a Nutshell",
             "genai_spinner": "🤖 Crafting your personalized summary...",
             "genai_warning": "Could not generate AI summary. Please check your API key.",
+            "genai_info_placeholder": "Your personalized AI summary will appear here once you apply the filters. Ensure your API key is configured to use this feature.",
             "news_header": "📰 Latest News from Your Recommended Alcaldías",
-            "no_news_found": "No recent news found for this alcaldía."
+            "no_news_found": "No recent news found for this alcaldía.",
+            "no_images_found": "No images found for {alcaldia}."
         },
         "sidebar": {
             "header": "Find Your Ideal Alcaldía", "button_text": "🚀 Find My Alcaldía",
-            "bio_subheader": "About You (Optional)",
+            "bio_subheader": "Tell us about you",
             "bio_placeholder": "Tell us a bit about yourself: your profession, hobbies, lifestyle, what you value in a neighborhood..."
         },
         "filters": {
@@ -71,7 +77,9 @@ LANGUAGES = {
             "tab1": "Trabajo e Infraestructura", "tab2": "Ocio y Cultura", "tab3": "Demografía", "tab4": "Vivienda", "tab5": "Seguridad"
         },
         "plots": {
-            "main_header": "Comparación Detallada de Alcaldías", "other_alcaldias": "Otras Alcaldías"
+            "main_header": "Comparación Detallada de Alcaldías", "other_alcaldias": "Otras Alcaldías",
+            "xaxis_percentage": "Porcentaje (%)",
+            "security_threshold": "Umbral Mínimo de Seguridad"
         },
         "plot_titles": {
             "workforce": "Distribución de la fuerza laboral por sector",
@@ -106,17 +114,21 @@ LANGUAGES = {
         "ui": {
             "title": "SETTLY 🏠", "subtitle": "Tu guía personal...", "spinner_text": "Analizando tus preferencias...", "map_header": "Mapa de Recomendaciones", "chart_header": "Puntuación de Recomendación", "chart_info": "Aplica los filtros para ver tu ranking personalizado.", "expander_title": "Ver Datos Geográficos Crudos",
             "genai_header": "✨ Tu Resumen Personalizado",
+            "summary_tab_title": "✨ Resumen Personalizado",
+            "gallery_tab_title": "🖼️ Galería de Imágenes",
             "genai_primary": "Recomendación Principal",
             "genai_secondary": "Otras Buenas Opciones",
             "genai_summary": "En Resumen",
             "genai_spinner": "🤖 Creando tu resumen personalizado...",
             "genai_warning": "No se pudo generar el resumen de IA. Por favor, verifica tu clave de API.",
+            "genai_info_placeholder": "Tu resumen de IA personalizado aparecerá aquí una vez que apliques los filtros. Asegúrate de que tu clave de API esté configurada para usar esta función.",
             "news_header": "📰 Últimas Noticias de tus Alcaldías Recomendadas",
-            "no_news_found": "No se encontraron noticias recientes para esta alcaldía."
+            "no_news_found": "No se encontraron noticias recientes para esta alcaldía.",
+            "no_images_found": "No se encontraron imágenes para {alcaldia}."
         },
         "sidebar": {
             "header": "Encuentra Tu Alcaldía Ideal", "button_text": "🚀 Encuentra Mi Alcaldía",
-            "bio_subheader": "Sobre Ti (Opcional)",
+            "bio_subheader": "Cuéntanos sobre ti",
             "bio_placeholder": "Cuéntanos un poco sobre ti: tu profesión, pasatiempos, estilo de vida, qué valoras en una colonia..."
         },
         "filters": {
@@ -129,13 +141,16 @@ LANGUAGES = {
 }
 
 def get_localizer(language="en"):
-    def t(key):
+    """
+    Returns a translation function that can also format strings.
+    Example: t("ui.no_images_found", alcaldia="Coyoacán")
+    """
+    def t(key, **kwargs):
         keys = key.split('.')
         try:
             val = LANGUAGES[language]
             for k in keys:
                 val = val[k]
-            return val
         except (KeyError, TypeError):
             val = LANGUAGES.get("en", {})
             for k in keys:
@@ -143,5 +158,8 @@ def get_localizer(language="en"):
                     val = val.get(k, f"[{key}]")
                 else:
                     return f"[{key}]"
-            return val
+        
+        if kwargs and isinstance(val, str):
+            return val.format(**kwargs)
+        return val
     return t

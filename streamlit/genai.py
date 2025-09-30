@@ -59,8 +59,8 @@ class AlcaldiaRecommender:
         """
         mappings = {
             "work": {
-                "en": {0: "Student", 1: "Employee", 2: "Freelancer", 3: "Business Owner", 4: "Unemployed", 5: "Doesn't matter"},
-                "es": {0: "Estudiante", 1: "Empleado", 2: "Independiente", 3: "Dueño de negocio", 4: "Desempleado", 5: "No importa"}
+                "en": {0: "Professionals/Admin", 1: "Agricultural", 2: "Industrial", 3: "Commerce & Services", 4: "Other", 5: "Doesn't matter"},
+                "es": {0: "Funcionarios, profesionistas, técnicos y administrativos", 1: "Trabajadores agropecuarios", 2: "Trabajadores en la industria", 3: "Comerciantes y trabajadores en servicios diversos", 4: "Otros", 5: "No importa"}
             },
             "school": {
                 "en": {0: "Doesn't matter", 1: "Basic Education", 2: "Higher Education"},

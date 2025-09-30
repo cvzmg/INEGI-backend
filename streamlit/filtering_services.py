@@ -259,7 +259,18 @@ def get_best_filter(
     vector = list(filter(None, vector))
     counts = Counter(vector).most_common()
 
-    return counts
+    security_everyone_map = data_security_everyone.set_index('NOM_MUN')['normalized']
+    security_women_map = data_security_women.set_index('NOM_MUN')['normalized']
+
+    filtered_counts = []
+    for alcaldia, count in counts:
+        score_everyone = security_everyone_map.get(alcaldia, 0.0)
+        score_women = security_women_map.get(alcaldia, 0.0)
+
+        if score_everyone >= 0.2 and score_women >= 0.2:
+            filtered_counts.append((alcaldia, count))
+
+    return filtered_counts
 
 # In streamlit/utils/services/filtering_services.py
 
