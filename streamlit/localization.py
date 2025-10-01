@@ -1,5 +1,3 @@
-# streamlit/localization.py
-
 LANGUAGES = {
     "en": {
         "tabs": {
@@ -47,16 +45,15 @@ LANGUAGES = {
         },
         "ui": {
             "title": "SETTLY 🏠", "subtitle": "Your personal guide...", "spinner_text": "Analyzing your preferences...", "map_header": "Map of Recommendations", "chart_header": "Recommendation Score", "chart_info": "Apply filters to see your personalized ranking.", "expander_title": "View Raw Geographic Data",
-            "genai_header": "✨ Your Personalized Summary",
             "summary_tab_title": "✨ Personalized Summary",
             "gallery_tab_title": "🖼️ Image Gallery",
+            "news_tab_title": "📰 Latest News",
             "genai_primary": "Top Recommendation",
             "genai_secondary": "Other Good Options",
             "genai_summary": "In a Nutshell",
             "genai_spinner": "🤖 Crafting your personalized summary...",
             "genai_warning": "Could not generate AI summary. Please check your API key.",
             "genai_info_placeholder": "Your personalized AI summary will appear here once you apply the filters. Ensure your API key is configured to use this feature.",
-            "news_header": "📰 Latest News from Your Recommended Alcaldías",
             "no_news_found": "No recent news found for this alcaldía.",
             "no_images_found": "No images found for {alcaldia}."
         },
@@ -113,16 +110,15 @@ LANGUAGES = {
         },
         "ui": {
             "title": "SETTLY 🏠", "subtitle": "Tu guía personal...", "spinner_text": "Analizando tus preferencias...", "map_header": "Mapa de Recomendaciones", "chart_header": "Puntuación de Recomendación", "chart_info": "Aplica los filtros para ver tu ranking personalizado.", "expander_title": "Ver Datos Geográficos Crudos",
-            "genai_header": "✨ Tu Resumen Personalizado",
             "summary_tab_title": "✨ Resumen Personalizado",
             "gallery_tab_title": "🖼️ Galería de Imágenes",
+            "news_tab_title": "📰 Últimas Noticias",
             "genai_primary": "Recomendación Principal",
             "genai_secondary": "Otras Buenas Opciones",
             "genai_summary": "En Resumen",
             "genai_spinner": "🤖 Creando tu resumen personalizado...",
             "genai_warning": "No se pudo generar el resumen de IA. Por favor, verifica tu clave de API.",
             "genai_info_placeholder": "Tu resumen de IA personalizado aparecerá aquí una vez que apliques los filtros. Asegúrate de que tu clave de API esté configurada para usar esta función.",
-            "news_header": "📰 Últimas Noticias de tus Alcaldías Recomendadas",
             "no_news_found": "No se encontraron noticias recientes para esta alcaldía.",
             "no_images_found": "No se encontraron imágenes para {alcaldia}."
         },
