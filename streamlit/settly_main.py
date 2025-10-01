@@ -31,7 +31,7 @@ def get_image_as_base64(path):
         return None
 
 def _sanitize_name(name):
-    """Prepara el nombre de una alcaldía para que coincida con el nombre de un archivo."""
+    """Sets the name of an alcaldia to match the name of a file."""
     replacements = {
         ' ': '_', 'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
         'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ú': 'U'
@@ -41,7 +41,7 @@ def _sanitize_name(name):
     return name
 
 def setup_page(t):
-    """Configura los ajustes de la página, el ícono y el logo dinámico según el tema."""
+    """Configure page settings, icons, and dynamic logos based on your theme."""
     icon_path = "../docs/logo_settly_light.svg"
     
     try:
@@ -242,7 +242,7 @@ def fetch_news_for_alcaldias(alcaldias: tuple, language: str):
     return news_data
 
 def display_news_section(news_data, t):
-    # El encabezado se elimina porque el título de la pestaña ya sirve como tal
+    # The header is removed because the tab title already serves as such
     if not news_data: 
         st.info(t("ui.no_news_found"))
         return
@@ -266,7 +266,7 @@ def display_genai_recommendation(recommendation, t):
         st.markdown(f"**{t('ui.genai_summary')}**"); st.info(recommendation.summary)
 
 def display_gallery_tab(ranked_alcaldias_list, t):
-    """Muestra una galería de imágenes para todas las alcaldías recomendadas en dos columnas."""
+    """Displays an image gallery for all recommended mayorships in two columns."""
     IMAGE_DIR = "../assets/alcaldia_images"
     if not os.path.isdir(IMAGE_DIR):
         st.warning("El directorio de imágenes no fue encontrado.")
